@@ -49,7 +49,7 @@ course = inquirer.select(
 ).execute()
 browser = inquirer.select(message="Which browser would you like to use?", choices={"Safari": None, "Chrome": None, "Edge": None}).execute()
 verboose = inquirer.confirm(message="Verboose? [Shows the debugging messages]").execute()
-fillform = inquirer.confirm(message="Auto fill Form? [Automaticly fills the form with the data you entered]").execute()
+fillform = inquirer.confirm(message="Auto fill Form? [Automatically fills the form with the data you entered]").execute()
 if fillform == True:
     name = inquirer.text(message="Enter your full name:").execute()
     birthdate = inquirer.text(message="Enter your birthdate: [YEAR-MONTH-DAY]").execute()
