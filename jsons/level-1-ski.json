@@ -1,0 +1,2484 @@
+[
+  {
+    "id": "000",
+    "question": "Durch welche Merkmale ist eine Kurvenbahn beschrieben? ",
+    "answers": [
+      { "id": "000-0", "answer": "Kurvenradius", "is_correct": true },
+      { "id": "000-1", "answer": "Kurvenfrequenz", "is_correct": false },
+      { "id": "000-2", "answer": "Kurvenwinkel", "is_correct": true }
+    ]
+  },
+  {
+    "id": "001",
+    "question": "Bei schnellem Aufrichten erfolgt die größte Belastung der Ski... ",
+    "answers": [
+      {
+        "id": "001-0",
+        "answer": "am Anfang der Hochbewegung",
+        "is_correct": true
+      },
+      {
+        "id": "001-1",
+        "answer": "während der Hochbewegung",
+        "is_correct": false
+      },
+      {
+        "id": "001-2",
+        "answer": "am Ende der Hochbewegung",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "question": "Warum bewegt man den Körperschwerpunkt beim Kurvenwechsel nach vorne? ",
+    "answers": [
+      {
+        "id": "002-0",
+        "answer": "um Rücklage zu vermeiden",
+        "is_correct": true
+      },
+      {
+        "id": "002-1",
+        "answer": "um die Ski zu beschleunigen",
+        "is_correct": false
+      },
+      {
+        "id": "002-2",
+        "answer": "um eine permanent mittige Belastung sicherzustellen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "question": "Wann werden die Ski kurzzeitig stärker belastet?",
+    "answers": [
+      {
+        "id": "003-0",
+        "answer": "Abbremsen einer Hochbewegung",
+        "is_correct": false
+      },
+      {
+        "id": "003-1",
+        "answer": "Beschleunigen einer Hochbewegung",
+        "is_correct": true
+      },
+      {
+        "id": "003-2",
+        "answer": "Abbremsen einer Tiefbewegung",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "question": "Durch was kann die Belastung der Ski verändert werden?",
+    "answers": [
+      {
+        "id": "004-0",
+        "answer": "Kantbewegung, Drehbewegung",
+        "is_correct": true
+      },
+      {
+        "id": "004-1",
+        "answer": "Körperschwerpunktsverlagerungen, Ausgleichsbewegungen",
+        "is_correct": true
+      },
+      {
+        "id": "004-2",
+        "answer": "Kurvenradius, Kurvenwinkel",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "005",
+    "question": "Merkmale guter Skifahrer sind unter anderem: ",
+    "answers": [
+      {
+        "id": "005-0",
+        "answer": "Bewegungen werden aus den Beinen initiiert",
+        "is_correct": true
+      },
+      {
+        "id": "005-1",
+        "answer": "Druckaufbau so früh wie möglich auf der Innenkante des Außenskis",
+        "is_correct": true
+      },
+      {
+        "id": "005-2",
+        "answer": "Der Körperschwerpunkt bewegt sich zum Kurvenwechsel nach vorne in die neue Kurvenrichtung",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "006",
+    "question": "Aus welchen Teilen setzt sich die Kurvenlage zusammen? ",
+    "answers": [
+      {
+        "id": "006-0",
+        "answer": "Skistellung, Körperstellung, Skilage, Körperlage",
+        "is_correct": true
+      },
+      { "id": "006-1", "answer": "Innenlage", "is_correct": false },
+      { "id": "006-2", "answer": "Vorlage oder Rücklage", "is_correct": false }
+    ]
+  },
+  {
+    "id": "007",
+    "question": "Die bewegungsbereite Position ist gekennzeichnet durch: ",
+    "answers": [
+      {
+        "id": "007-0",
+        "answer": "leichte Beugung von Fuß-, Knie- und Hüftgelenken",
+        "is_correct": true
+      },
+      {
+        "id": "007-1",
+        "answer": "leichte Schrittstellung",
+        "is_correct": false
+      },
+      {
+        "id": "007-2",
+        "answer": "Arme befinden sich seitlich vor dem Körper",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "008",
+    "question": "Vorausdrehen bedeutet: ",
+    "answers": [
+      {
+        "id": "008-0",
+        "answer": "Oberkörper und Arme drehen vorab in die neue Fahrtrichtung",
+        "is_correct": true
+      },
+      {
+        "id": "008-1",
+        "answer": "Die Bewegung wird mental durchgeführt",
+        "is_correct": false
+      },
+      {
+        "id": "008-2",
+        "answer": "Knie und Oberschenkel drehen vorab in die neue Fahrtrichtung",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "009",
+    "question": "Welche Bewegungsmerkmale nutzen Kinder?",
+    "answers": [
+      {
+        "id": "009-0",
+        "answer": "Kinder beugen vor allem im Knie- und Hüftgelenk",
+        "is_correct": true
+      },
+      {
+        "id": "009-1",
+        "answer": "Kinder haben ihren Schwerpunkt weiter hinten als Erwachsene",
+        "is_correct": true
+      },
+      {
+        "id": "009-2",
+        "answer": "Kinder initiieren ihre Bewegungen hauptsächlich über das Sprunggelenk",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "010",
+    "question": "Welche Bewegungen ermöglichen Richtungsänderung? ",
+    "answers": [
+      { "id": "010-0", "answer": "Stockeinsatz", "is_correct": false },
+      {
+        "id": "010-1",
+        "answer": "Drehbewegungen aus den Beinen",
+        "is_correct": true
+      },
+      {
+        "id": "010-2",
+        "answer": "Kantbewegungen mit Körperschwerpunkt Verlagerung",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "011",
+    "question": "Wie wählt man in steilem Gelände die sicherste Fahrspur? ",
+    "answers": [
+      {
+        "id": "011-0",
+        "answer": "kleiner Radius, kleiner Winkel und geringes Tempo",
+        "is_correct": false
+      },
+      {
+        "id": "011-1",
+        "answer": "großer Radius, großer Winkel und hohes Tempo",
+        "is_correct": false
+      },
+      {
+        "id": "011-2",
+        "answer": "kleinerer Radius, großer Winkel und geringes Tempo",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "012",
+    "question": "Wofür kann die Kurvenuhr verwendet werden? ",
+    "answers": [
+      {
+        "id": "012-0",
+        "answer": "zum Aufzeichnen der Anzahl der gefahrenen Kurven kleiner Radius, kleiner Winkel und geringes Tempo",
+        "is_correct": false
+      },
+      {
+        "id": "012-1",
+        "answer": "zur Verbildlichung von Kurvenwinkel und Bewegungstiming",
+        "is_correct": true
+      },
+      {
+        "id": "012-2",
+        "answer": "zur Einteilung einer Kurve in verschiedene Teilbereiche wie Kurveneinfahrt, -scheitel und –ausfahrt",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "013",
+    "question": "Was ermöglicht man durch Regulationsmechanismen?",
+    "answers": [
+      {
+        "id": "013-0",
+        "answer": "Belastung des Außenskis zu gewährleisten",
+        "is_correct": true
+      },
+      {
+        "id": "013-1",
+        "answer": "Sicherheitsabstände können besser eingehalten werden",
+        "is_correct": false
+      },
+      {
+        "id": "013-2",
+        "answer": "stabiles Gleichgewicht beizubehalten",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "014",
+    "question": "Wie verändert man die Fahrtechnik im Tiefschnee?",
+    "answers": [
+      {
+        "id": "014-0",
+        "answer": "fahren mit Belastung auf beiden Ski",
+        "is_correct": true
+      },
+      {
+        "id": "014-1",
+        "answer": "fahren mit weichen und fließenden Bewegungen",
+        "is_correct": true
+      },
+      {
+        "id": "014-2",
+        "answer": "fahren mit starker Rücklage",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "015",
+    "question": "Wann ist der Kantendruck am größten? ",
+    "answers": [
+      {
+        "id": "015-0",
+        "answer": "bei großer Belastung und geringer Auflagefläche",
+        "is_correct": true
+      },
+      {
+        "id": "015-1",
+        "answer": "am Ende der Hochbewegung",
+        "is_correct": false
+      },
+      {
+        "id": "015-2",
+        "answer": "bei großer Belastung und großer Auflagefläche",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "016",
+    "question": "Welche Aktionen bieten sich für das Bremsen in Pflugstellung an? ",
+    "answers": [
+      {
+        "id": "016-0",
+        "answer": "beide Skienden stärker nach außen schieben",
+        "is_correct": true
+      },
+      {
+        "id": "016-1",
+        "answer": "Hände auf die Knie stützen",
+        "is_correct": false
+      },
+      {
+        "id": "016-2",
+        "answer": "beide Knie verstärkt nach innen drücken",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "017",
+    "question": "Kurvenlage ist abhängig von... ",
+    "answers": [
+      { "id": "017-0", "answer": "Skitaillierung", "is_correct": false },
+      { "id": "017-1", "answer": "Geschwindigkeit", "is_correct": true },
+      { "id": "017-2", "answer": "Kurvenradius", "is_correct": true }
+    ]
+  },
+  {
+    "id": "018",
+    "question": "Welche Begriffe spielen bei der „Steuerqualität“ eine Rolle? ",
+    "answers": [
+      {
+        "id": "018-0",
+        "answer": "Rutschen, Driften, Schneiden",
+        "is_correct": true
+      },
+      {
+        "id": "018-1",
+        "answer": "Linienwahl, Korridor, Tempokontrolle",
+        "is_correct": false
+      },
+      {
+        "id": "018-2",
+        "answer": "Hauptbewegungen, Belastung- und Druckregulation",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "019",
+    "question": "Um das Gleichgewicht zu erhalten, muss ich mich beim Schussfahren an einer Geländekante... ",
+    "answers": [
+      { "id": "019-0", "answer": "nach vorne bewegen", "is_correct": true },
+      { "id": "019-1", "answer": "ruhig verhalten", "is_correct": false },
+      { "id": "019-2", "answer": "aufrichten", "is_correct": false }
+    ]
+  },
+  {
+    "id": "020",
+    "question": "Welche Aussagen gelten für das Fahren in steilem Gelände? ",
+    "answers": [
+      {
+        "id": "020-0",
+        "answer": "Reguliere nach vorne in die neue Kurvenrichtung",
+        "is_correct": true
+      },
+      {
+        "id": "020-1",
+        "answer": "Richte dich nicht zu stark auf",
+        "is_correct": true
+      },
+      {
+        "id": "020-2",
+        "answer": "Kante die Ski möglichst früh auf",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "021",
+    "question": "Zu den Kurvenkräften zählt auch die Zentrifugalkraft, auch Fliehkraft genannt. Welche Aussagen gelten? ",
+    "answers": [
+      {
+        "id": "021-0",
+        "answer": "Die Fliehkraft hängt direkt von der Hangneigung ab",
+        "is_correct": false
+      },
+      {
+        "id": "021-1",
+        "answer": "Je größer die Masse, desto größer die Fliehkraft",
+        "is_correct": true
+      },
+      {
+        "id": "021-2",
+        "answer": "Höheres Tempo beim Kurvenfahren lässt die Fliehkraft kleiner werden",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "022",
+    "question": "Was verändert u.a. die Belastung der Ski beim Kurvenfahren? ",
+    "answers": [
+      { "id": "022-0", "answer": "Aufkantwinkel der Ski", "is_correct": true },
+      { "id": "022-1", "answer": "Hangneigung", "is_correct": false },
+      { "id": "022-2", "answer": " Geschwindigkeit", "is_correct": true }
+    ]
+  },
+  {
+    "id": "023",
+    "question": "Die Kurvensteuerung in paralleler Skistellung ist gekennzeichnet durch… ",
+    "answers": [
+      { "id": "023-0", "answer": "Kurvenlage", "is_correct": true },
+      {
+        "id": "023-1",
+        "answer": "Vollziehen der Richtungsänderung",
+        "is_correct": true
+      },
+      { "id": "023-2", "answer": "Belastungswechsel", "is_correct": false }
+    ]
+  },
+  {
+    "id": "024",
+    "question": "Was legt das Bewegungstiming fest? ",
+    "answers": [
+      {
+        "id": "024-0",
+        "answer": "wie weit eine (Teil-)Bewegung vollzogen wird",
+        "is_correct": false
+      },
+      {
+        "id": "024-1",
+        "answer": "wann eine Aktion räumlich oder zeitlich begonnen bzw. beendet wird",
+        "is_correct": true
+      },
+      {
+        "id": "024-2",
+        "answer": "wohin man sich mit dem Körper oder Körperteilen bewegt",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "025",
+    "question": "Man spricht von geschnittener Kurvensteuerung, wenn... ",
+    "answers": [
+      {
+        "id": "025-0",
+        "answer": "vornehmlich auf dem lnnenski gefahren wird",
+        "is_correct": false
+      },
+      {
+        "id": "025-1",
+        "answer": "die Skienden in der Spur der Skispitzen fahren",
+        "is_correct": true
+      },
+      {
+        "id": "025-2",
+        "answer": "die Ski in der Schwungsteuerung flach über den Schnee geführt werden",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "026",
+    "question": "Der Bewegungsumfang ändert sich, wenn eine Aktion…",
+    "answers": [
+      {
+        "id": "026-0",
+        "answer": "mehr oder weniger großräumig vollzogen wird",
+        "is_correct": true
+      },
+      {
+        "id": "026-1",
+        "answer": "schnell oder langsam ausgeführt wird",
+        "is_correct": false
+      },
+      {
+        "id": "026-2",
+        "answer": "früh oder später in der Kurvenfahrt beginnt",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "027",
+    "question": "Wann kanten wir die Ski vorwiegend über das Becken oder den ganzen Körper auf? ",
+    "answers": [
+      {
+        "id": "027-0",
+        "answer": "bei Kurven mit kurzen Radien und hoher Frequenz",
+        "is_correct": false
+      },
+      {
+        "id": "027-1",
+        "answer": "bei hoher Kurvengeschwindigkeit, dabei ist das Innenbein stärker gebeugt als das Außenbein",
+        "is_correct": true
+      },
+      {
+        "id": "027-2",
+        "answer": "im Bruchharsch oder in der Buckelpiste",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "028",
+    "question": "Ziel beim Schussfahren ist, dass ",
+    "answers": [
+      {
+        "id": "028-0",
+        "answer": "keiner der beiden Ski stärker belastet wird.",
+        "is_correct": true
+      },
+      {
+        "id": "028-1",
+        "answer": "der etwas vorgeschobene Ski stärker belastet wird.",
+        "is_correct": false
+      },
+      {
+        "id": "028-2",
+        "answer": "einer der beiden Ski stärker belastet wird.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "029",
+    "question": "Was geschieht beim Kurvenwechsel? ",
+    "answers": [
+      {
+        "id": "029-0",
+        "answer": "Änderung der Drehrichtung",
+        "is_correct": true
+      },
+      {
+        "id": "029-1",
+        "answer": "Kant- und Belastungswechsel",
+        "is_correct": true
+      },
+      {
+        "id": "029-2",
+        "answer": "Kurvenlagewechsel, Schrittwechsel",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "030",
+    "question": "Druck ist Kraft pro Auflagefläche. Welche Aussagen stimmen? ",
+    "answers": [
+      {
+        "id": "030-0",
+        "answer": "Druck wird erhöht durch Aufkanten der Ski",
+        "is_correct": true
+      },
+      {
+        "id": "030-1",
+        "answer": "Druck wird verringert durch schnelles Beugen der Beine in der Kurvensteuerung",
+        "is_correct": true
+      },
+      {
+        "id": "030-2",
+        "answer": "Druck wird erhöht durch Verlagern des KSP über einen Ski",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "031",
+    "question": "Auf eisiger Piste gilt: ",
+    "answers": [
+      {
+        "id": "031-0",
+        "answer": "halte mittlere Position",
+        "is_correct": true
+      },
+      {
+        "id": "031-1",
+        "answer": "mehr Belastung auf dem Innenski",
+        "is_correct": false
+      },
+      { "id": "031-2", "answer": "vermeide Überdrehen", "is_correct": true }
+    ]
+  },
+  {
+    "id": "032",
+    "question": "Wie kann man die Fahrspur in der Buckelpiste wählen? ",
+    "answers": [
+      { "id": "032-0", "answer": "über die Buckel", "is_correct": true },
+      { "id": "032-1", "answer": "um die Buckel", "is_correct": true },
+      {
+        "id": "032-2",
+        "answer": "Springen von Buckel zu Buckel",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "033",
+    "question": "Welche Aussagen gelten für kleine Kinder?",
+    "answers": [
+      {
+        "id": "033-0",
+        "answer": "Kinder fahren mit grobkoordinierten Bewegungen",
+        "is_correct": true
+      },
+      {
+        "id": "033-1",
+        "answer": " Kinder nehmen mehr Vorlage ein als Erwachsene",
+        "is_correct": false
+      },
+      {
+        "id": "033-2",
+        "answer": "Kinder drehen die Ski stark mit dem Rumpf und ihrem ganzen Körper",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "034",
+    "question": "Wann kann ein Vorausdrehen des Oberkörpers zur Kurveneinfahrt sinnvoll sein? ",
+    "answers": [
+      {
+        "id": "034-0",
+        "answer": "beim Fahren mit geschnittener Kurvensteuerung",
+        "is_correct": false
+      },
+      {
+        "id": "034-1",
+        "answer": "bei schwierigen Schneeverhältnissen z.B. Bruchharsch",
+        "is_correct": true
+      },
+      {
+        "id": "034-2",
+        "answer": "um Pflugkurven zu erlernen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "035",
+    "question": "Stemmschwünge sind… ",
+    "answers": [
+      {
+        "id": "035-0",
+        "answer": "Übungen eines dynamischen Konditionstrainings",
+        "is_correct": false
+      },
+      {
+        "id": "035-1",
+        "answer": "erleichtern den Umkantvorgang des Außenskis",
+        "is_correct": true
+      },
+      {
+        "id": "035-2",
+        "answer": "sind ein kraftsparendes Mittel in schwerdrehbarem Schnee",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "036",
+    "question": "Skigymnastik ist sinnvoll... ",
+    "answers": [
+      {
+        "id": "036-0",
+        "answer": "zur Vorbereitung auf die Heimfahrt",
+        "is_correct": false
+      },
+      {
+        "id": "036-1",
+        "answer": "als Aufwärmung vor körperlicher Belastung",
+        "is_correct": true
+      },
+      {
+        "id": "036-2",
+        "answer": "als Vorbereitung auf einen Skiurlaub",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "037",
+    "question": "Grundregeln des Unterrichts sind ",
+    "answers": [
+      {
+        "id": "037-0",
+        "answer": "Vom Leichten zum Schweren",
+        "is_correct": true
+      },
+      {
+        "id": "037-1",
+        "answer": "von der großen zur kleinen Richtungsänderung",
+        "is_correct": false
+      },
+      {
+        "id": "037-2",
+        "answer": "vom Bekannten zum Unbekannten",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "038",
+    "question": "In welcher Weise sollte demonstriert werden? ",
+    "answers": [
+      { "id": "038-0", "answer": "übertrieben langsam", "is_correct": false },
+      {
+        "id": "038-1",
+        "answer": "mit deutlicher Herausstellung der Bewegungselemente",
+        "is_correct": true
+      },
+      { "id": "038-2", "answer": "immer in Grobform", "is_correct": false }
+    ]
+  },
+  {
+    "id": "039",
+    "question": "Unterrichtsverfahren sind ",
+    "answers": [
+      { "id": "039-0", "answer": "Induktives Verfahren", "is_correct": true },
+      { "id": "039-1", "answer": "Deduktives Verfahren", "is_correct": true },
+      {
+        "id": "039-2",
+        "answer": "Traditionelles Verfahren",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "040",
+    "question": "Geländeformen sollten möglichst häufig als Unterrichtsmittel eingesetzt werden: ",
+    "answers": [
+      {
+        "id": "040-0",
+        "answer": "Weil dadurch Buckelpisten möglichst früh mit hohem Tempo befahren werden können",
+        "is_correct": false
+      },
+      {
+        "id": "040-1",
+        "answer": "Weil durch sie der Unterricht abwechslungsreicher gestaltet werden kann",
+        "is_correct": true
+      },
+      {
+        "id": "040-2",
+        "answer": "Weil sie das Erreichen des Lernziels wesentlich erleichtern können",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "041",
+    "question": "Zur Planung des Skiunterrichtes gehört vor allem… ",
+    "answers": [
+      {
+        "id": "041-0",
+        "answer": "die Startsituation zu klären.",
+        "is_correct": true
+      },
+      {
+        "id": "041-1",
+        "answer": "möglichst viele verschiedene Bewegungsaufgaben vorzubereiten",
+        "is_correct": false
+      },
+      {
+        "id": "041-2",
+        "answer": "zum Lernziel passende Aufgaben vorzubereiten",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "042",
+    "question": "Die Sicherheitserziehung im Skiunterricht ... ",
+    "answers": [
+      {
+        "id": "042-0",
+        "answer": "ist ständige Aufgabe des Skilehrers im Skiunterricht",
+        "is_correct": true
+      },
+      {
+        "id": "042-1",
+        "answer": "wird nur an Gefahrenstellen durchgeführt",
+        "is_correct": false
+      },
+      {
+        "id": "042-2",
+        "answer": "kann bei besseren Fahrern entfallen",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "043",
+    "question": "Welcher Begriff sind als Aufgabentypen im Skiunterricht bekannt? ",
+    "answers": [
+      { "id": "043-0", "answer": "Technikaufgabe", "is_correct": true },
+      { "id": "043-1", "answer": "Spiel/Wettkampf", "is_correct": true },
+      { "id": "043-2", "answer": "Schwerpunktaufgabe", "is_correct": false }
+    ]
+  },
+  {
+    "id": "044",
+    "question": "Welcher Begriff gehört nicht zu den künstlichen Geländehilfen? ",
+    "answers": [
+      { "id": "044-0", "answer": "Tretorgel", "is_correct": false },
+      { "id": "044-1", "answer": "die Wellenbahn", "is_correct": false },
+      { "id": "044-2", "answer": "die Buckelpiste", "is_correct": true }
+    ]
+  },
+  {
+    "id": "045",
+    "question": "Die falsche Geländewahl zeigt sich... ",
+    "answers": [
+      {
+        "id": "045-0",
+        "answer": "am Nichtgelingen der geforderten Fahrhilfen",
+        "is_correct": true
+      },
+      {
+        "id": "045-1",
+        "answer": "durch Ängstlichkeit der Schüler",
+        "is_correct": true
+      },
+      {
+        "id": "045-2",
+        "answer": "wenn Schüler sehr motiviert sind",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "046",
+    "question": "Welche Voraussetzungen sind für den Unterrichtserfolg im Skilauf besonders bedeutungsvoll? ",
+    "answers": [
+      { "id": "046-0", "answer": "Bekleidung", "is_correct": false },
+      { "id": "046-1", "answer": "Geländewahl", "is_correct": true },
+      {
+        "id": "046-2",
+        "answer": "Festsetzung der Lerninhalte nach Können",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "047",
+    "question": "Unter „freiem Üben“ versteht man... ",
+    "answers": [
+      {
+        "id": "047-0",
+        "answer": "das Üben der Skiläufer außerhalb der Skischule",
+        "is_correct": false
+      },
+      {
+        "id": "047-1",
+        "answer": "das in einem Unterrichtsverlauf eingeplante Üben mit Ortsbestimmung ohne besondere Unterrichtsmaßnahmen des Lehrers",
+        "is_correct": true
+      },
+      {
+        "id": "047-2",
+        "answer": "das freie Fahren im Gelände",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "048",
+    "question": "Erwachsene lernen am besten... ",
+    "answers": [
+      {
+        "id": "048-0",
+        "answer": "durch die Gestaltung des Unterrichts mit vielen Wettkämpfen",
+        "is_correct": false
+      },
+      {
+        "id": "048-1",
+        "answer": "allein durch freies Fahren",
+        "is_correct": false
+      },
+      {
+        "id": "048-2",
+        "answer": "durch den Einsatz verschiedener gezielter Unterrichtsmaßnahmen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "049",
+    "question": "Schülerdemonstrationen sind in der Regel... ",
+    "answers": [
+      { "id": "049-0", "answer": "nutzlos", "is_correct": false },
+      { "id": "049-1", "answer": "verwirrend", "is_correct": false },
+      { "id": "049-2", "answer": "anregend", "is_correct": true }
+    ]
+  },
+  {
+    "id": "050",
+    "question": "Wie stelle ich Aufgaben im Skiunterricht? ",
+    "answers": [
+      {
+        "id": "050-0",
+        "answer": "kurz, prägnant, verständlich",
+        "is_correct": true
+      },
+      {
+        "id": "050-1",
+        "answer": "ausführlich, detailliert, präzise",
+        "is_correct": false
+      },
+      {
+        "id": "050-2",
+        "answer": "positiv, konstruktiv, lernzielbezogen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "051",
+    "question": "Wie organisiere ich den Skiunterricht erlebnisreich? ",
+    "answers": [
+      {
+        "id": "051-0",
+        "answer": "Ich nutze verschiedene Sozialformen zur Durchführung einer Aufgabe.",
+        "is_correct": true
+      },
+      {
+        "id": "051-1",
+        "answer": "Ich verändere die Abstände der Schüler zueinander beim Schlangefahren bei jeder Aufgabe.",
+        "is_correct": false
+      },
+      {
+        "id": "051-2",
+        "answer": "Ich verpacke die Aufgaben eines (Halb-)Tages in eine Geschichte.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "052",
+    "question": "Situative Technik orientiert sich an bestimmten Vorgaben: ",
+    "answers": [
+      {
+        "id": "052-0",
+        "answer": "Gelände, Schnee, Ausrüstung, Schüler",
+        "is_correct": true
+      },
+      { "id": "052-1", "answer": "Es ist alles erlaubt", "is_correct": false },
+      {
+        "id": "052-2",
+        "answer": "Das Kanten soll optimiert werden",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "053",
+    "question": "Was heißt situativer Unterricht? ",
+    "answers": [
+      {
+        "id": "053-0",
+        "answer": "Der Schüler bestimmt alles",
+        "is_correct": false
+      },
+      {
+        "id": "053-1",
+        "answer": "Die jeweilige Unterrichtssituation ist zu berücksichtigen",
+        "is_correct": true
+      },
+      {
+        "id": "053-2",
+        "answer": "Jeder kann am Skiunterricht teilnehmen",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "054",
+    "question": "Erziehung zur Handlungsfähigkeit bedeutet: ",
+    "answers": [
+      {
+        "id": "054-0",
+        "answer": "Vermittlung von verschiedenen Techniken",
+        "is_correct": false
+      },
+      {
+        "id": "054-1",
+        "answer": "Verhaltensformen in der Gruppe",
+        "is_correct": false
+      },
+      {
+        "id": "054-2",
+        "answer": "Lernen selbständigen Lösens von Situationen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "055",
+    "question": "Warum sollten beim Unterricht mit Kindern individuelle Bewegungsausführungen weitgehend toleriert werden?",
+    "answers": [
+      {
+        "id": "055-0",
+        "answer": "weil die Lehrerdemonstrationen von Kindern nicht verstanden werden",
+        "is_correct": false
+      },
+      {
+        "id": "055-1",
+        "answer": "weil unterschiedliche Lernvoraussetzungen verschiedene Lösungsmöglichkeiten bedingen",
+        "is_correct": true
+      },
+      {
+        "id": "055-2",
+        "answer": "weil der unterschiedliche Körperbau von Kindern kaum Normierungen zulässt",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "056",
+    "question": "Was bedeutet Style? ",
+    "answers": [
+      {
+        "id": "056-0",
+        "answer": "Fahren besonders eleganter Techniken",
+        "is_correct": false
+      },
+      {
+        "id": "056-1",
+        "answer": "individuell gestaltete Bewegungserlebnisse (z.B. in Park und Pipe, Geländeformen)",
+        "is_correct": true
+      },
+      {
+        "id": "056-2",
+        "answer": "Befahren von Park & Pipe",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "057",
+    "question": "Durch welche Aufgaben kann man u.a. das Skidrehen verbessern? ",
+    "answers": [
+      { "id": "057-0", "answer": "durch Pflugdrehen", "is_correct": true },
+      { "id": "057-1", "answer": "durch Ganzkörperdrehen", "is_correct": true },
+      {
+        "id": "057-2",
+        "answer": "durch mehr Fersenbelastung",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "058",
+    "question": "Durch welche Maßnahmen wird ein gutes Gruppenklima geschaffen?",
+    "answers": [
+      {
+        "id": "058-0",
+        "answer": "durch aufbauende Korrektur",
+        "is_correct": true
+      },
+      {
+        "id": "058-1",
+        "answer": "durch Berücksichtigung ausreichender Erholungspausen",
+        "is_correct": false
+      },
+      {
+        "id": "058-2",
+        "answer": "durch Schülermitbestimmung",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "059",
+    "question": "Kinder lernen vor allem durch... ",
+    "answers": [
+      { "id": "059-0", "answer": "spielerische Aufgaben", "is_correct": true },
+      { "id": "059-1", "answer": "Bewegungserklärungen", "is_correct": false },
+      { "id": "059-2", "answer": "Bewegungsanalysen", "is_correct": false }
+    ]
+  },
+  {
+    "id": "060",
+    "question": "um altersgemäßen Kinderskiunterricht zu gestalten, ist es besonders wichtig… ",
+    "answers": [
+      {
+        "id": "060-0",
+        "answer": "die Übungen dem Entwicklungsstand der Kinder anzupassen.",
+        "is_correct": true
+      },
+      {
+        "id": "060-1",
+        "answer": "den Kindern genau zu erklären, welche Technikmerkmale die einzelnen Übungen verbessern werden.",
+        "is_correct": false
+      },
+      {
+        "id": "060-2",
+        "answer": "die konditionellen und koordinativen Voraussetzungen der unterschiedlichen Altersstufen zu kennen.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "061",
+    "question": "Warum sollte man beim Demonstrieren gelegentlich auch auf die Schüler zufahren? ",
+    "answers": [
+      {
+        "id": "061-0",
+        "answer": "damit man während der Fahrt kommentieren kann",
+        "is_correct": false
+      },
+      {
+        "id": "061-1",
+        "answer": "damit die Schüler den Bewegungsablauf auch von vorne sehen",
+        "is_correct": true
+      },
+      {
+        "id": "061-2",
+        "answer": "um den Unterricht aufzulockern",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "062",
+    "question": "Der Lehrer sollte im Stoff fortschreiten... ",
+    "answers": [
+      {
+        "id": "062-0",
+        "answer": "erst wenn eine Fahrhilfe perfekt erlernt ist",
+        "is_correct": false
+      },
+      {
+        "id": "062-1",
+        "answer": "wenn eine Fahrhilfe im Wettkampf angewendet werden kann",
+        "is_correct": false
+      },
+      {
+        "id": "062-2",
+        "answer": "wenn eine Aufgabe etwa in der Grobform beherrscht wird",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "063",
+    "question": "Welches methodische Hilfsmittel findet vorrangig Anwendung im Kinderskilauf? ",
+    "answers": [
+      {
+        "id": "063-0",
+        "answer": "die Bewegungsanweisung",
+        "is_correct": false
+      },
+      { "id": "063-1", "answer": "die Bewegungsaufgabe", "is_correct": true },
+      { "id": "063-2", "answer": "die Bewegungserklärung", "is_correct": false }
+    ]
+  },
+  {
+    "id": "064",
+    "question": "Was ist die Grundlage der Sicherheitserziehung? ",
+    "answers": [
+      {
+        "id": "064-0",
+        "answer": "Erzeugen von reflektierter Mitverantwortung",
+        "is_correct": true
+      },
+      {
+        "id": "064-1",
+        "answer": "Androhung von Bestrafung",
+        "is_correct": false
+      },
+      {
+        "id": "064-2",
+        "answer": "Vermittlung von Wissen und Können",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "065",
+    "question": "Wir unterscheiden zwischen Bewegungsanweisungen und Bewegungsaufgaben. Was sind Bewegungsaufgaben?",
+    "answers": [
+      {
+        "id": "065-0",
+        "answer": "„Umfahrt die Stangen mit großem Abstand“",
+        "is_correct": false
+      },
+      { "id": "065-1", "answer": "„Umfahrt die Stangen“", "is_correct": true },
+      {
+        "id": "065-2",
+        "answer": "„Umfahrt die Stangen nur mit paralleler Skistellung“",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "066",
+    "question": "Welche Unterrichtsmaßnahmen fördern Selbständigkeit und das Eigentraining? ",
+    "answers": [
+      {
+        "id": "066-0",
+        "answer": "Hang frei befahren lassen und Selbstbeurteilung einfordern",
+        "is_correct": true
+      },
+      {
+        "id": "066-1",
+        "answer": "in Kursformation eine Abfahrt durchführen",
+        "is_correct": false
+      },
+      { "id": "066-2", "answer": "freies Üben einplanen", "is_correct": true }
+    ]
+  },
+  {
+    "id": "067",
+    "question": "Was erzeugt ein Aufkanten der Ski?",
+    "answers": [
+      {
+        "id": "067-0",
+        "answer": "Sprunggelenke und Knie kurveneinwärts abkippen",
+        "is_correct": true
+      },
+      { "id": "067-1", "answer": "Verkanten", "is_correct": false },
+      {
+        "id": "067-2",
+        "answer": "Hüfte zur Kurvenmitte hin verlagern",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "068",
+    "question": "Was soll man beim Schleppliftfahren zu zweit auf jeden Fall vermeiden?",
+    "answers": [
+      {
+        "id": "068-0",
+        "answer": "vom Partner weg nach außen neigen",
+        "is_correct": true
+      },
+      { "id": "068-1", "answer": "auf den Bügel setzen", "is_correct": true },
+      {
+        "id": "068-2",
+        "answer": "in offener Skistellung fahren",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "069",
+    "question": "Welche didaktisch-methodischen Aspekte für gesundheitsbewusstes Fahren sind zutreffend?",
+    "answers": [
+      {
+        "id": "069-0",
+        "answer": "Ganzkörperkippen und Ganzkörperrotation nutzen",
+        "is_correct": true
+      },
+      {
+        "id": "069-1",
+        "answer": "Verzicht auf Techniken mit „Druckspitzen“",
+        "is_correct": true
+      },
+      {
+        "id": "069-2",
+        "answer": "Vorrang für die Forderung „statische Arbeit “statt dynamische Arbeit“",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "070",
+    "question": "Emotionale Komponenten beim Skiunterricht sind ",
+    "answers": [
+      {
+        "id": "070-0",
+        "answer": "Angst, Versagen, Blockaden",
+        "is_correct": true
+      },
+      { "id": "070-1", "answer": "Freude, Spaß", "is_correct": true },
+      { "id": "070-2", "answer": " Müdigkeit", "is_correct": false }
+    ]
+  },
+  {
+    "id": "071",
+    "question": "Allgemeine Bewegungsempfindungen werden erschlossen durch...",
+    "answers": [
+      { "id": "071-0", "answer": "Körpergefühle", "is_correct": true },
+      { "id": "071-1", "answer": "Verstandesleistungen", "is_correct": false },
+      { "id": "071-2", "answer": "Lauf- und Fahrgefühle", "is_correct": true }
+    ]
+  },
+  {
+    "id": "072",
+    "question": "Schwerpunkte der Unterrichtsorganisation sind ",
+    "answers": [
+      { "id": "072-0", "answer": "Sicherheit", "is_correct": true },
+      { "id": "072-1", "answer": "Hilfsmittel", "is_correct": true },
+      { "id": "072-2", "answer": "Pausengestaltung", "is_correct": false }
+    ]
+  },
+  {
+    "id": "073",
+    "question": "Die Organisationsform/Betriebsform „Einzelunterricht“ ist besonders geeignet für... ",
+    "answers": [
+      { "id": "073-0", "answer": "Begegnung", "is_correct": false },
+      { "id": "073-1", "answer": "Selbsterfahrung", "is_correct": true },
+      {
+        "id": "073-2",
+        "answer": "schnellen Lernfortschritt",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "074",
+    "question": "Wie lautet das letzte Lernziel in der blauen Lernebene? ",
+    "answers": [
+      {
+        "id": "074-0",
+        "answer": "Springen auf kleiner Schanze, ersten Pistentricks",
+        "is_correct": true
+      },
+      { "id": "074-1", "answer": "Erste Pflugkurve(n)", "is_correct": false },
+      {
+        "id": "074-2",
+        "answer": "Rhythmische Pflugkurven",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "075",
+    "question": "Welche Merkmale gehören im Gegensatz zu den „Feinkoordination“ zur „Variablen Verfügbarkeit“? ",
+    "answers": [
+      {
+        "id": "075-0",
+        "answer": "größtenteils fehlerfreie Bewegungsmuster",
+        "is_correct": false
+      },
+      {
+        "id": "075-1",
+        "answer": "ausgeprägten Bewegungspräzision",
+        "is_correct": true
+      },
+      {
+        "id": "075-2",
+        "answer": "Fähigkeit zur Antizipation von auftretenden Störungen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "076",
+    "question": "Typische Konzentrations- und Ermüdungsfehler sind?",
+    "answers": [
+      {
+        "id": "076-0",
+        "answer": "Unkontrolliertes Rutschen",
+        "is_correct": true
+      },
+      {
+        "id": "076-1",
+        "answer": "Rücklage und Beschleunigung",
+        "is_correct": true
+      },
+      { "id": "076-2", "answer": "Abfahrt an einem Stück", "is_correct": false }
+    ]
+  },
+  {
+    "id": "077",
+    "question": "Welcher Lernebene ist das Lernziel „Pflugkurven mit Belastungswechsel“ zuzuordnen? ",
+    "answers": [
+      { "id": "077-0", "answer": "Lernebene Grün", "is_correct": false },
+      { "id": "077-1", "answer": "Lernebene Blau", "is_correct": true },
+      { "id": "077-2", "answer": "Lernebene Rot", "is_correct": false }
+    ]
+  },
+  {
+    "id": "078",
+    "question": "Beim Unterricht mit Kindern sollte beachtet werden, dass ",
+    "answers": [
+      {
+        "id": "078-0",
+        "answer": "eine leicht verständliche, bildhafte Sprache verwendet wird",
+        "is_correct": true
+      },
+      {
+        "id": "078-1",
+        "answer": "mit Bewegungsanweisungen gearbeitet wird",
+        "is_correct": false
+      },
+      {
+        "id": "078-2",
+        "answer": "mit Aufgabenstellungen gearbeitet wird",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "079",
+    "question": "Für den Kinderskilehrer ist es am Wichtigsten ",
+    "answers": [
+      {
+        "id": "079-0",
+        "answer": "einen sicheren Skiunterricht zu organisieren.",
+        "is_correct": true
+      },
+      { "id": "079-1", "answer": "Spaß zu haben.", "is_correct": false },
+      {
+        "id": "079-2",
+        "answer": "den Kindern möglichst viel beizubringen.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "080",
+    "question": "Welche Aussage(n) ist/sind richtig? ",
+    "answers": [
+      {
+        "id": "080-0",
+        "answer": "Kinder haben ihren Körperschwerpunkt beim Fahren weiter vorne als Erwachsene",
+        "is_correct": false
+      },
+      {
+        "id": "080-1",
+        "answer": "Kinder drehen stark mit dem Rumpf",
+        "is_correct": true
+      },
+      {
+        "id": "080-2",
+        "answer": "Kinder fahren mit gestrecktem Außenbein",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "081",
+    "question": "Wie viele Lernebenen beinhaltet die DSLV Schneesportphilosophie? ",
+    "answers": [
+      { "id": "081-0", "answer": "2 Lernebenen", "is_correct": false },
+      { "id": "081-1", "answer": "3 Lernebenen", "is_correct": false },
+      { "id": "081-2", "answer": "4 Lernebenen", "is_correct": true }
+    ]
+  },
+  {
+    "id": "082",
+    "question": "„Position stabilisieren und sichern“ ist ein wichtiger Inhalt der ",
+    "answers": [
+      { "id": "082-0", "answer": "der Lernebene Grün", "is_correct": false },
+      { "id": "082-1", "answer": "der Lernebene Blau", "is_correct": false },
+      { "id": "082-2", "answer": "der Lernebene Rot", "is_correct": true }
+    ]
+  },
+  {
+    "id": "083",
+    "question": "In der Lernebene Blau lernt der Schüler unter anderem ",
+    "answers": [
+      {
+        "id": "083-0",
+        "answer": "Rhythmische Pflugkurven",
+        "is_correct": true
+      },
+      {
+        "id": "083-1",
+        "answer": "Parallele Kurven mit variabler Spuranlage",
+        "is_correct": false
+      },
+      {
+        "id": "083-2",
+        "answer": "Schrägfahren und Seitrutschen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "084",
+    "question": "Die richtige methodische Reihung der Lernebenen ist:",
+    "answers": [
+      {
+        "id": "084-0",
+        "answer": "Grün, Rot, Blau, Schwarz",
+        "is_correct": false
+      },
+      {
+        "id": "084-1",
+        "answer": "Grün, Blau, Rot, Schwarz",
+        "is_correct": true
+      },
+      {
+        "id": "084-2",
+        "answer": "Gelb, Blau, Rot, Schwarz",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "085",
+    "question": "Informationen über Material, Gelände und Sicherheit beim Skifahren sind Bestandteil ",
+    "answers": [
+      { "id": "085-0", "answer": "in Lernebene Grün", "is_correct": true },
+      { "id": "085-1", "answer": "in Lernebene Blau", "is_correct": false },
+      { "id": "085-2", "answer": "in Lernebene Rot", "is_correct": false }
+    ]
+  },
+  {
+    "id": "086",
+    "question": "Wer holt bei einem schweren Unfall, z.B. offener Unterschenkelbruch, in einem Erwachsenenkurs Hilfe? ",
+    "answers": [
+      { "id": "086-0", "answer": "der Skilehrer", "is_correct": false },
+      {
+        "id": "086-1",
+        "answer": "ein guter Schüler der Gruppe",
+        "is_correct": false
+      },
+      {
+        "id": "086-2",
+        "answer": "zwei gute Schüler der Gruppe",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "087",
+    "question": "Welche Maßnahme muss bei einem Unfall auf der Piste zuerst getroffen werden? ",
+    "answers": [
+      {
+        "id": "087-0",
+        "answer": "Benachrichtigung der Bergwacht",
+        "is_correct": false
+      },
+      {
+        "id": "087-1",
+        "answer": "Absicherung der Unfallstelle",
+        "is_correct": true
+      },
+      {
+        "id": "087-2",
+        "answer": "Versorgung des Verletzten",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "088",
+    "question": "Erste Hilfe bei einem Sonnenstich ist:",
+    "answers": [
+      {
+        "id": "088-0",
+        "answer": "kurze Lagerung im Schatten, äußerlich und innerlich Flüssigkeit zuführen",
+        "is_correct": false
+      },
+      {
+        "id": "088-1",
+        "answer": "einige Zeit im Schatten bleiben, Kopf mit nassen Tüchern kühlen",
+        "is_correct": true
+      },
+      {
+        "id": "088-2",
+        "answer": "Lagerung mit dem Kopf nach unten",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "089",
+    "question": "Erste Hilfe bei plötzlicher Bewusstlosigkeit ... ",
+    "answers": [
+      {
+        "id": "089-0",
+        "answer": "Medikamente mit heißem Tee verabreichen",
+        "is_correct": false
+      },
+      {
+        "id": "089-1",
+        "answer": "sofern Atmung und Kreislauf vorhanden, Verunfallten in stabile Seitenlage bringen, regelmäßige Kontrolle,Notrufe absetzen",
+        "is_correct": true
+      },
+      {
+        "id": "089-2",
+        "answer": " sofern kein Puls und keine Atmung, gilt Reanimationspflicht",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "090",
+    "question": "Erste Hilfe bei Schnittwunden ist... ",
+    "answers": [
+      {
+        "id": "090-0",
+        "answer": "sofortiges Anlegen eines keimfreien Wundverbandes",
+        "is_correct": true
+      },
+      {
+        "id": "090-1",
+        "answer": "sofortiges Abbinden oberhalb und unterhalb der Wunde",
+        "is_correct": false
+      },
+      {
+        "id": "090-2",
+        "answer": "Versorgung mit feuchtkalten Umschlägen",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "091",
+    "question": "Die Kursteilnehmer sollten bei einem Unfall... ",
+    "answers": [
+      { "id": "091-0", "answer": "weggeschickt werden", "is_correct": false },
+      { "id": "091-1", "answer": "zuschauen", "is_correct": false },
+      {
+        "id": "091-2",
+        "answer": "zu Hilfemaßnahmen veranlasst werden",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "092",
+    "question": "Wann ist mit erhöhter Gefahr durch UV-Strahlung zu rechnen? ",
+    "answers": [
+      {
+        "id": "092-0",
+        "answer": "Nach Neuschnee in tiefen Lagen",
+        "is_correct": false
+      },
+      { "id": "092-1", "answer": "Nur ab 2.500 m Höhe", "is_correct": false },
+      {
+        "id": "092-2",
+        "answer": "Bei Nebel bereits in mittleren Höhenlagen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "093",
+    "question": "Welche Situationen im Winter lassen den Schluss zu, dass mit erhöhter Lawinengefahr zu rechnen ist?",
+    "answers": [
+      {
+        "id": "093-0",
+        "answer": "ergiebiger Neuschneefall",
+        "is_correct": true
+      },
+      {
+        "id": "093-1",
+        "answer": "tiefe Nachttemperaturen",
+        "is_correct": false
+      },
+      { "id": "093-2", "answer": "mildes Wetter", "is_correct": true }
+    ]
+  },
+  {
+    "id": "094",
+    "question": "Welche Bodenbeschaffenheit begünstigt einen Lawinenabgang? ",
+    "answers": [
+      { "id": "094-0", "answer": "Grashänge", "is_correct": true },
+      { "id": "094-1", "answer": "Hänge mit Büschen", "is_correct": true },
+      {
+        "id": "094-2",
+        "answer": "Hänge mit wechselndem Gefälle",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "095",
+    "question": "Für die Beurteilung der Lawinengefahr sind entscheidend: ",
+    "answers": [
+      { "id": "095-0", "answer": "Gelände", "is_correct": true },
+      { "id": "095-1", "answer": "Schneedecke", "is_correct": true },
+      { "id": "095-2", "answer": "Fahrkönnen", "is_correct": false }
+    ]
+  },
+  {
+    "id": "096",
+    "question": "Wenn man einen lawinengefährdeten Hang queren will, sollte man... ",
+    "answers": [
+      {
+        "id": "096-0",
+        "answer": "eine Querung möglichst hoch und einzeln vornehmen",
+        "is_correct": true
+      },
+      {
+        "id": "096-1",
+        "answer": "die Spur möglichst am Fuß des Hanges anlegen",
+        "is_correct": false
+      },
+      {
+        "id": "096-2",
+        "answer": "eine Querung hoch und schnell mit geschlossener Gruppe vornehmen",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "097",
+    "question": "Schwimmschnee ist... ",
+    "answers": [
+      {
+        "id": "097-0",
+        "answer": "eine durch aufbauende Metamorphose oder Tiefenreifbildung entstandene Schicht, die zu erhöhter Lawinengefahr führt",
+        "is_correct": true
+      },
+      {
+        "id": "097-1",
+        "answer": "eine Sulzschneeschicht, in die man tief einsinkt; die Lawinengefahr ist relativ gering\"",
+        "is_correct": false
+      },
+      {
+        "id": "097-2",
+        "answer": "eine dünne Schicht an der Oberfläche, die wenig mit dem Untergrund verbunden ist.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "098",
+    "question": "Eine Beschäftigung mit alpinen Gefahren ... ",
+    "answers": [
+      {
+        "id": "098-0",
+        "answer": "erübrigt sich, solange man auf Pisten bleibt",
+        "is_correct": false
+      },
+      {
+        "id": "098-1",
+        "answer": "hat große Bedeutung, weil man durch die Aufstiegshilfen in hochalpines Gelände vorstößt",
+        "is_correct": true
+      },
+      {
+        "id": "098-2",
+        "answer": "ist für jeden Wintersportler zum Eigenschutz und für Hilfeleistungen von Bedeutung",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "099",
+    "question": "Lawinengefahr besteht... ",
+    "answers": [
+      {
+        "id": "099-0",
+        "answer": "nur bei Nassschnee über 30 cm Höhe",
+        "is_correct": false
+      },
+      {
+        "id": "099-1",
+        "answer": "primär bei Temperaturen über 0 Grad",
+        "is_correct": false
+      },
+      {
+        "id": "099-2",
+        "answer": "bei einer Vielzahl von Bedingungen, die vornehmlich durch die klimatischen Verhältnisse im Laufe des Winters bestimmt werden",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "100",
+    "question": "Der Kameradenhilfe bei einer Lawinenverschüttung ist eine entscheidende Bedeutung einzuräumen,... ",
+    "answers": [
+      {
+        "id": "100-0",
+        "answer": "weil der Zeitfaktor entscheidend für die Überlebenschance ist.",
+        "is_correct": true
+      },
+      {
+        "id": "100-1",
+        "answer": "weil die eigenen Kameraden auf den Geborgenen sofort beruhigend einwirken können und die Schockgefahr mindern.",
+        "is_correct": false
+      },
+      {
+        "id": "100-2",
+        "answer": "weil der Erfolg bei Einsatz von technischen Hilfsmitteln und Hunden ungewiss ist.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "101",
+    "question": "Abrisse von Lockerschneelawinen sind: ",
+    "answers": [
+      { "id": "101-0", "answer": "punktförmig", "is_correct": true },
+      { "id": "101-1", "answer": "linienförmig", "is_correct": false },
+      { "id": "101-2", "answer": "flächenhaft", "is_correct": false }
+    ]
+  },
+  {
+    "id": "102",
+    "question": "Schneebretter bilden sich vornehmlich durch: ",
+    "answers": [
+      { "id": "102-0", "answer": "Windverfrachtung", "is_correct": true },
+      { "id": "102-1", "answer": "Sonneneinstrahlung", "is_correct": false },
+      { "id": "102-2", "answer": "Temperatureinwirkung", "is_correct": false }
+    ]
+  },
+  {
+    "id": "103",
+    "question": "Welche Schneeart bildet eine gute Gleitschicht für die darüber liegende Schneedecke? ",
+    "answers": [
+      { "id": "103-0", "answer": "Firnschnee", "is_correct": false },
+      {
+        "id": "103-1",
+        "answer": "feinkörniger Altschnee",
+        "is_correct": false
+      },
+      { "id": "103-2", "answer": "Schwimmschnee", "is_correct": true }
+    ]
+  },
+  {
+    "id": "104",
+    "question": "Welche Hanglagen sind besonders lawinengefährdet?",
+    "answers": [
+      { "id": "104-0", "answer": "Westhänge", "is_correct": false },
+      {
+        "id": "104-1",
+        "answer": "Südwest- bis Nordwesthänge",
+        "is_correct": false
+      },
+      { "id": "104-2", "answer": "Nordwest- bis Südhänge", "is_correct": true }
+    ]
+  },
+  {
+    "id": "105",
+    "question": "Schwimmschnee ist zu finden... ",
+    "answers": [
+      {
+        "id": "105-0",
+        "answer": "unterhalb großer Wächten",
+        "is_correct": false
+      },
+      {
+        "id": "105-1",
+        "answer": "innerhalb der Schneedecke",
+        "is_correct": true
+      },
+      {
+        "id": "105-2",
+        "answer": "überall bei Schneefall unter -10 °C Temperatur",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "106",
+    "question": "Bei welcher Hangneigung muss im Allgemeinen mit Lawinenabgängen gerechnet werden? ",
+    "answers": [
+      {
+        "id": "106-0",
+        "answer": "Hänge unter 15 Grad Neigung",
+        "is_correct": false
+      },
+      {
+        "id": "106-1",
+        "answer": "Hänge zwischen 25 Grad und 45 Grad Neigung",
+        "is_correct": true
+      },
+      {
+        "id": "106-2",
+        "answer": "Hänge über 45 Grad Neigung",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "107",
+    "question": "In welcher Weise erfolgt der Abriss eines Schneebretts?",
+    "answers": [
+      { "id": "107-0", "answer": "punktförmig", "is_correct": false },
+      { "id": "107-1", "answer": "linienförmig", "is_correct": true },
+      { "id": "107-2", "answer": "fingerförmig", "is_correct": false }
+    ]
+  },
+  {
+    "id": "108",
+    "question": "Wie wird das alpine Notsignal gesendet? ",
+    "answers": [
+      {
+        "id": "108-0",
+        "answer": "Mit akustischen Zeichen: 3x kurz, 3x lang, 3x kurz usw.",
+        "is_correct": false
+      },
+      {
+        "id": "108-1",
+        "answer": "Mit 6 Zeichen in der Minute, eine Minute Pause usw.",
+        "is_correct": true
+      },
+      {
+        "id": "108-2",
+        "answer": "Mit 3 Zeichen in der Minute, eine Minute Pause usw.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "109",
+    "question": "Wie ist das Antwortzeichen auf alpine Notsignale? ",
+    "answers": [
+      {
+        "id": "109-0",
+        "answer": "Einen Arm nach oben, einen Arm nach unten strecken",
+        "is_correct": false
+      },
+      {
+        "id": "109-1",
+        "answer": "3 Zeichen in der Minute, eine Minute Pause usw.",
+        "is_correct": true
+      },
+      {
+        "id": "109-2",
+        "answer": "6 Zeichen in der Minute, eine Minute Pause usw.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "110",
+    "question": "Wie verhalte ich mich bei plötzlichem Nebeleinfall auf der Piste? ",
+    "answers": [
+      {
+        "id": "110-0",
+        "answer": "abwarten, bis die Sicht besser wird",
+        "is_correct": false
+      },
+      {
+        "id": "110-1",
+        "answer": "von Pistenmarkierung zu Pistenmarkierung fahren oder gehen",
+        "is_correct": true
+      },
+      {
+        "id": "110-2",
+        "answer": "hinter anderen Skiläufern herfahren",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "111",
+    "question": "Bei welcher amtlichen Institution kann sich der Skilehrer über die aktuelle Lawinensituation informieren?",
+    "answers": [
+      { "id": "111-0", "answer": "Wochenzeitung", "is_correct": false },
+      { "id": "111-1", "answer": "Polizeistationen", "is_correct": true },
+      {
+        "id": "111-2",
+        "answer": "Telefonansage des Wasserwirtschaftsamtes/Lawinenwarnzentrale",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "112",
+    "question": "Welche Kriterien zur Beurteilung einer Schneeart im Hinblick auf die Befahrbarkeit sind von Bedeutung? ",
+    "answers": [
+      {
+        "id": "112-0",
+        "answer": "Schnee trocken oder nicht",
+        "is_correct": true
+      },
+      { "id": "112-1", "answer": "Höhe der Schneeschicht", "is_correct": true },
+      { "id": "112-2", "answer": "Dichte der Schneeart", "is_correct": true }
+    ]
+  },
+  {
+    "id": "113",
+    "question": "Das Einbügeln des Wachses ... ",
+    "answers": [
+      {
+        "id": "113-0",
+        "answer": "ist ausschließlich eine Spezialität der Rennläufer",
+        "is_correct": false
+      },
+      {
+        "id": "113-1",
+        "answer": "fördert die Haftung des Wachses, weil der Belag durchtränkt wird",
+        "is_correct": true
+      },
+      {
+        "id": "113-2",
+        "answer": "ist bei heutigen Hartwachsen schädlich, weil es die Skieigenschaften verändert",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "114",
+    "question": "Die richtige Präparierung der Kante garantiert... ",
+    "answers": [
+      {
+        "id": "114-0",
+        "answer": "gleichmäßigen Kantengriff im Pulverschnee",
+        "is_correct": false
+      },
+      {
+        "id": "114-1",
+        "answer": "gleichmäßigen Kantengriff bei Bruchharsch",
+        "is_correct": false
+      },
+      {
+        "id": "114-2",
+        "answer": "gleichmäßigen Kantengriff auf eisiger Piste",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "115",
+    "question": "Der Kantenzustand ist entscheidend... ",
+    "answers": [
+      {
+        "id": "115-0",
+        "answer": "für die Spurtreue im Tiefschnee",
+        "is_correct": false
+      },
+      {
+        "id": "115-1",
+        "answer": "nur für das gute Gleiten",
+        "is_correct": false
+      },
+      {
+        "id": "115-2",
+        "answer": "für die Umsetzung aller Fahreigenschaften der Ski",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "116",
+    "question": "Welche Skilänge sollte dem Anfänger im alpinen Skilauf empfohlen werden? ",
+    "answers": [
+      {
+        "id": "116-0",
+        "answer": "möglichst über Körpergröße",
+        "is_correct": false
+      },
+      { "id": "116-1", "answer": "Kurzski (1 m Länge)", "is_correct": false },
+      {
+        "id": "116-2",
+        "answer": "niemals über Körpergröße",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "117",
+    "question": "Welche Reihenfolge ist bei der Alpinskipräparation zu beachten? ",
+    "answers": [
+      {
+        "id": "117-0",
+        "answer": "Reinigen - Ausbessern - Feilen - Kantenfinish - Wachsen",
+        "is_correct": true
+      },
+      {
+        "id": "117-1",
+        "answer": "Reinigen - Feilen - Ausbessern - Wachsen - Kantenfinish",
+        "is_correct": false
+      },
+      {
+        "id": "117-2",
+        "answer": "Reinigen - Wachsen - Feilen - Kantenfinish",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "118",
+    "question": "Welcher Abstand ist bei alpinen Wettkämpfen maximal zulässig zwischen Skibelag und Schuhsohle?",
+    "answers": [
+      { "id": "118-0", "answer": "spielt keine Rolle", "is_correct": false },
+      { "id": "118-1", "answer": "50 mm", "is_correct": true },
+      { "id": "118-2", "answer": "65 mm", "is_correct": false }
+    ]
+  },
+  {
+    "id": "119",
+    "question": "Die Skigeometrie hat sich in den letzten Jahren enorm verändert. Welchen Radius haben moderne Slalomski?",
+    "answers": [
+      { "id": "119-0", "answer": "ca. 12 – 14 m", "is_correct": true },
+      { "id": "119-1", "answer": "ca. 18 – 20 m", "is_correct": false },
+      { "id": "119-2", "answer": "über 20 m", "is_correct": false }
+    ]
+  },
+  {
+    "id": "120",
+    "question": "Welche(n) Vorteil(e) bringt ein gut gewachster Alpinski?",
+    "answers": [
+      { "id": "120-0", "answer": "er rostet nicht", "is_correct": false },
+      { "id": "120-1", "answer": "er dreht leichter", "is_correct": true },
+      { "id": "120-2", "answer": "der Belag wird gepflegt", "is_correct": true }
+    ]
+  },
+  {
+    "id": "121",
+    "question": "Das Wachsen der Ski beeinflusst vorteilhaft: ",
+    "answers": [
+      {
+        "id": "121-0",
+        "answer": "Kantengriff und Laufruhe der Ski",
+        "is_correct": false
+      },
+      {
+        "id": "121-1",
+        "answer": "Drehbarkeit, Alterungsverhalten, Technik",
+        "is_correct": true
+      },
+      {
+        "id": "121-2",
+        "answer": "Dämpfungsverhalten, Auslösewert der Bindung",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "122",
+    "question": "Unter „Heißwachsen“ versteht man: ",
+    "answers": [
+      {
+        "id": "122-0",
+        "answer": "den Wachsauftrag mit Tubenwachs",
+        "is_correct": false
+      },
+      {
+        "id": "122-1",
+        "answer": "den Wachsauftrag mit dem Bügeleisen",
+        "is_correct": true
+      },
+      {
+        "id": "122-2",
+        "answer": "den Wachsauftrag mit Trockenwachs",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "123",
+    "question": "Anfängern im Erwachsenenalter sind kürzere Ski insbesondere dann zu empfehlen, wenn Sie... ",
+    "answers": [
+      {
+        "id": "123-0",
+        "answer": "konditionell schwach sind",
+        "is_correct": true
+      },
+      { "id": "123-1", "answer": "ängstlich sind", "is_correct": true },
+      {
+        "id": "123-2",
+        "answer": "schneller fahren wollen",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "124",
+    "question": "Wie heißt der aktuelle DSLV Lehrplan? ",
+    "answers": [
+      { "id": "124-0", "answer": "„Skifahren einfach“", "is_correct": false },
+      {
+        "id": "124-1",
+        "answer": "„SKI FAHREN und unterrichten“",
+        "is_correct": true
+      },
+      { "id": "124-2", "answer": "Skilehrplan „praxis“", "is_correct": false }
+    ]
+  },
+  {
+    "id": "125",
+    "question": "Der Deutsche Skilehrerverband ist... ",
+    "answers": [
+      {
+        "id": "125-0",
+        "answer": "der Dachverband für alle Verbände, die Übungsleiter ausbilden",
+        "is_correct": false
+      },
+      {
+        "id": "125-1",
+        "answer": "ein Mitgliedsverband des Deutschen Sportbundes (DSB)",
+        "is_correct": false
+      },
+      {
+        "id": "125-2",
+        "answer": "ein Mitgliedsverband des Deutschen Verbandes für das Skilehrwesen (DVS)",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "126",
+    "question": "Die abgelegte Prüfung für den Skilehrer Level 1 dient... ",
+    "answers": [
+      {
+        "id": "126-0",
+        "answer": "zum professionellen Unterrichten in einer Skischule",
+        "is_correct": true
+      },
+      {
+        "id": "126-1",
+        "answer": "als Vorbereitung bzw. Voraussetzung zur Qualifikation Level 2",
+        "is_correct": true
+      },
+      {
+        "id": "126-2",
+        "answer": "zur Anmeldung für die Staatliche Skilehrerprüfung",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "127",
+    "question": "Der Deutsche Skilehrerverband ist... ",
+    "answers": [
+      {
+        "id": "127-0",
+        "answer": "ein berufsorientierter Interessenverband",
+        "is_correct": true
+      },
+      {
+        "id": "127-1",
+        "answer": "Mitglied im Internationalen Skiverband (FIS)",
+        "is_correct": false
+      },
+      {
+        "id": "127-2",
+        "answer": "Mitglied im Internationalen Skilehrerverband (ISIA)",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "128",
+    "question": "Die Prüfung „Skilehrer Level 1“ ist eine Qualifikation des Deutschen Skilehrerverbandes. Als solche ... ",
+    "answers": [
+      {
+        "id": "128-0",
+        "answer": "verpflichtet sie zur Sorgfalt gegenüber den Schülern in gleicher Weise, wie dies bei einem Staatl. gepr. Schneesportlehrer der Fall ist.",
+        "is_correct": true
+      },
+      {
+        "id": "128-1",
+        "answer": "hat sie in Bezug auf Haftungsfragen keinerlei Auswirkung und entbindet von allen Regressansprüchen.",
+        "is_correct": false
+      },
+      {
+        "id": "128-2",
+        "answer": "berechtigt sie zur Führung von Hochtouren.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "129",
+    "question": "Mit welcher Ausbildungsstufe kann eine Skischule im Deutschen Skilehrerverband geführt werden? ",
+    "answers": [
+      { "id": "129-0", "answer": "Sportlehrer", "is_correct": false },
+      {
+        "id": "129-1",
+        "answer": "Staatlich geprüfter Schneesportlehrer",
+        "is_correct": true
+      },
+      { "id": "129-2", "answer": "Level 3 Skilehrer", "is_correct": false }
+    ]
+  },
+  {
+    "id": "130",
+    "question": "An welcher Stelle soll ein Skilehrer „liften“, wenn er eine Gruppe führt? ",
+    "answers": [
+      {
+        "id": "130-0",
+        "answer": "grundsätzlich immer am Ende der Gruppe",
+        "is_correct": true
+      },
+      {
+        "id": "130-1",
+        "answer": "grundsätzlich am Anfang der Gruppe, um seinen Schülern beim Aussteigen zu helfen",
+        "is_correct": false
+      },
+      {
+        "id": "130-2",
+        "answer": "in der Mitte der Gruppe, damit er die Übersicht behält",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "131",
+    "question": "Darf man im Hochgebirge mit seinen Schülern eine Skitour unternehmen? ",
+    "answers": [
+      { "id": "131-0", "answer": "nein", "is_correct": true },
+      {
+        "id": "131-1",
+        "answer": "es kommt auf das Wetter und die Schneeverhältnisse an",
+        "is_correct": false
+      },
+      {
+        "id": "131-2",
+        "answer": "es hängt von der Anzahl der Schüler ab",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "132",
+    "question": "Die FIS-Pistenregeln beziehen sich...",
+    "answers": [
+      {
+        "id": "132-0",
+        "answer": "auf die Anlage von Pisten",
+        "is_correct": false
+      },
+      {
+        "id": "132-1",
+        "answer": "auf die Pistenwahl durch den Läufer",
+        "is_correct": false
+      },
+      {
+        "id": "132-2",
+        "answer": "auf das Verhalten der Skifahrer",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "133",
+    "question": "Bei Durchführung des Unterrichts in Orten, die nicht zum eigenen Skischulbereich gehören, ist es üblich... ",
+    "answers": [
+      {
+        "id": "133-0",
+        "answer": "sich auf dem Gemeindeamt zu melden",
+        "is_correct": false
+      },
+      {
+        "id": "133-1",
+        "answer": "im Fremdenverkehrsbüro vorzusprechen",
+        "is_correct": false
+      },
+      {
+        "id": "133-2",
+        "answer": "in der ansässigen Skischule vorzusprechen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "134",
+    "question": "Sicherheitsbindungen werden eingestellt...",
+    "answers": [
+      { "id": "134-0", "answer": "im Sportgeschäft", "is_correct": true },
+      {
+        "id": "134-1",
+        "answer": "von einem erfahrenen Skilehrer zu Unterrichtsbeginn",
+        "is_correct": false
+      },
+      { "id": "134-2", "answer": "vom Liftpersonal", "is_correct": false }
+    ]
+  },
+  {
+    "id": "135",
+    "question": "Die schwierigen Pisten sind markiert mit... ",
+    "answers": [
+      { "id": "135-0", "answer": "roten Schildern", "is_correct": false },
+      { "id": "135-1", "answer": "blauen Schildern", "is_correct": false },
+      { "id": "135-2", "answer": "schwarzen Schildern", "is_correct": true }
+    ]
+  },
+  {
+    "id": "136",
+    "question": "Der Aufstieg auf einer Abfahrtsstrecke ",
+    "answers": [
+      {
+        "id": "136-0",
+        "answer": "kann beliebig erfolgen",
+        "is_correct": false
+      },
+      {
+        "id": "136-1",
+        "answer": "kann mit angeschnallten Skiern unter Leitung eines geprüften Skiausbilders beliebig erfolgen",
+        "is_correct": false
+      },
+      {
+        "id": "136-2",
+        "answer": "darf nur am Rand der Piste erfolgen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "137",
+    "question": "Wie verhält sich der Skilehrer, wenn er mit einer Gruppe von der Seite in die Piste einfährt? ",
+    "answers": [
+      {
+        "id": "137-0",
+        "answer": "Er braucht keine Rücksicht zu nehmen, da die geschlossene Gruppe Vorfahrt hat",
+        "is_correct": false
+      },
+      {
+        "id": "137-1",
+        "answer": "Er fährt zügig in den Hang ein, damit jeder sieht, dass eine geschlossene Gruppe kommt, der auszuweichen ist",
+        "is_correct": false
+      },
+      {
+        "id": "137-2",
+        "answer": "Er hält am Pistenrand, orientiert sich nach oben und fährt weiter, wenn die Strecke frei ist",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "138",
+    "question": "Welche Umweltempfehlungen für Skilehrer und Skischüler sind zutreffend? ",
+    "answers": [
+      {
+        "id": "138-0",
+        "answer": "Fahre durch Jungwaldbestand und erfreue dich an verschneiten Bäumen und Stauden",
+        "is_correct": false
+      },
+      {
+        "id": "138-1",
+        "answer": "Fahre nicht über schneefreie Hangstellen und schone die Vegetationsdecke",
+        "is_correct": true
+      },
+      {
+        "id": "138-2",
+        "answer": "Verzichte auf Zweige als Markierungshilfe",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "139",
+    "question": "Welche Umweltprobleme können durch den alpinen Skilauf/Langlauf entstehen? ",
+    "answers": [
+      { "id": "139-0", "answer": "Verkehrsbelastungen", "is_correct": true },
+      {
+        "id": "139-1",
+        "answer": "Schädigung der Fauna und Flora",
+        "is_correct": true
+      },
+      {
+        "id": "139-2",
+        "answer": "Beschädigung der PKW durch Skitransport",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "140",
+    "question": "Welches Transportmittel ist am umweltfreundlichsten? ",
+    "answers": [
+      { "id": "140-0", "answer": "PKW", "is_correct": false },
+      { "id": "140-1", "answer": "Bahn", "is_correct": true },
+      { "id": "140-2", "answer": "Bus", "is_correct": false }
+    ]
+  },
+  {
+    "id": "141",
+    "question": "An welchen Stellen ist das Fahren abseits der Piste erlaubt? ",
+    "answers": [
+      {
+        "id": "141-0",
+        "answer": "nur in den ausgewiesenen Bereichen",
+        "is_correct": true
+      },
+      { "id": "141-1", "answer": "durch den Wald", "is_correct": false },
+      {
+        "id": "141-2",
+        "answer": "oberhalb der Baumgrenze",
+        "is_correct": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,2290 @@
+[
+  {
+    "id": "000",
+    "question": "Es gibt eine aktionale und eine räumliche Unterteilung einer Kurvenbahn. Wie lautet die räumliche Unterteilung einer Kurvenbahn?",
+    "answers": [
+      {
+        "id": "000-0",
+        "answer": "Schwungeinfahrt – Kurvenwechsel",
+        "is_correct": false
+      },
+      {
+        "id": "000-1",
+        "answer": "Kurveneinfahrt – Kurvenausfahrt",
+        "is_correct": true
+      },
+      {
+        "id": "000-2",
+        "answer": "Radiuswechsel – Kurvensteuerung",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "001",
+    "question": "Es gibt zwei unterschiedliche Unterteilungen einer Kurvenbahn: Die räumliche und die aktionale Unterteilung. Wie lauten diese?",
+    "answers": [
+      {
+        "id": "001-0",
+        "answer": "Kurveneinfahrt – Kurvenausfahrt",
+        "is_correct": true
+      },
+      {
+        "id": "001-1",
+        "answer": "Kurvenwechsel – Kurvensteuerung",
+        "is_correct": true
+      },
+      {
+        "id": "001-2",
+        "answer": "Kurveneinfahrt – Radiuswechsel",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "question": "Kurvenwinkel, Kurvenradius und Kurvenfrequenz. Welche Aussagen sind richtig?",
+    "answers": [
+      {
+        "id": "002-0",
+        "answer": "Ski bleiben beim Kurvenfahren nahe der Falllinie, heißt, der Kurvenradius ist eher groß",
+        "is_correct": true
+      },
+      {
+        "id": "002-1",
+        "answer": "wenn die Kurvenfrequenz hoch ist, dann ist auch der Kurvenradius und -winkel sehr groß",
+        "is_correct": false
+      },
+      {
+        "id": "002-2",
+        "answer": "bei kleinen Kurvenwinkeln, kann der Kurvenradius groß und die Frequenz hoch sein",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "question": "Welche Wechselbewegungen werden unter anderem im Kurvenwechsel ausgeführt?",
+    "answers": [
+      {
+        "id": "003-0",
+        "answer": "Belastungswechsel und Kurvenlagewechsel",
+        "is_correct": true
+      },
+      {
+        "id": "003-1",
+        "answer": "Erhöhung des Kantwinkels",
+        "is_correct": false
+      },
+      { "id": "003-2", "answer": "Doppelstockeinsatz", "is_correct": false }
+    ]
+  },
+  {
+    "id": "004",
+    "question": "Welche Wechselbewegungen werden unter anderem im Kurvenwechsel ausgeführt?",
+    "answers": [
+      {
+        "id": "004-0",
+        "answer": "Erhöhung des Kantwinkels, Außenskibelastung und Oberkörperausgleich",
+        "is_correct": false
+      },
+      {
+        "id": "004-1",
+        "answer": "ständige Bewegungsbereitschaft",
+        "is_correct": false
+      },
+      {
+        "id": "004-2",
+        "answer": "Kantwechsel und Schrittwechsel",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "005",
+    "question": "Welche Bewegungen werden unter anderem in der Kurvensteuerung ausgeführt?",
+    "answers": [
+      {
+        "id": "005-0",
+        "answer": "Ausgleich der Kurvenlage",
+        "is_correct": true
+      },
+      {
+        "id": "005-1",
+        "answer": "Kantwechsel und Schrittwechsel",
+        "is_correct": false
+      },
+      {
+        "id": "005-2",
+        "answer": "Erhöhung des Kantwinkels",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "006",
+    "question": "Welche Bewegungen haben in der Regel die größte Bedeutung für die Stabilität im gesamten Kurvenverlauf?",
+    "answers": [
+      {
+        "id": "006-0",
+        "answer": "Vor-Rück- und Innen-Außenregulation",
+        "is_correct": true
+      },
+      {
+        "id": "006-1",
+        "answer": "Druckverteilung auf der Kante",
+        "is_correct": false
+      },
+      {
+        "id": "006-2",
+        "answer": "Belastung und Kurvenlagewechsel",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "007",
+    "question": "Merkmale für optimales Kurvenfahren werden wie folgt unterteilt:",
+    "answers": [
+      {
+        "id": "007-0",
+        "answer": "Grundmerkmale für Kurven, für den Kurvenwechsel, für die Kurvenausfahrt",
+        "is_correct": false
+      },
+      {
+        "id": "007-1",
+        "answer": "Grundmerkmale für Kurvenverlauf, Kurveneinfahrt, Schwungausfahrt",
+        "is_correct": false
+      },
+      {
+        "id": "007-2",
+        "answer": "Merkmale für den gesamten Kurvenverlauf, für den Kurvenwechsel, für die Kurvensteuerung",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "008",
+    "question": "Welche Belastungsverteilung ist im Kurvenverlauf in der Regel am stabilsten?",
+    "answers": [
+      {
+        "id": "008-0",
+        "answer": "volle Belastung auf den Außenski",
+        "is_correct": false
+      },
+      {
+        "id": "008-1",
+        "answer": "eine Belastungsverteilung, bei der die Führungsdominanz des Außenskis gewährleistet ist",
+        "is_correct": true
+      },
+      {
+        "id": "008-2",
+        "answer": "in der Regel ist eine gleichmäßige Belastung der Ski am stabilsten",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "009",
+    "question": "Welche Arten der Belastungsregulation sind während der Kurvenfahrt sinnvoll?",
+    "answers": [
+      {
+        "id": "009-0",
+        "answer": "Innen- und Außenregulation",
+        "is_correct": true
+      },
+      {
+        "id": "009-1",
+        "answer": "Vor- und Rückregulation",
+        "is_correct": true
+      },
+      { "id": "009-2", "answer": " Zehenbelastung", "is_correct": false }
+    ]
+  },
+  {
+    "id": "010",
+    "question": "Wie lautet die DSLV-Technikstruktur:",
+    "answers": [
+      { "id": "010-0", "answer": "A-O-V", "is_correct": false },
+      {
+        "id": "010-1",
+        "answer": "Situation – Bewegungen – Ziel",
+        "is_correct": true
+      },
+      { "id": "010-2", "answer": "Start – Kurven – Ziel", "is_correct": false }
+    ]
+  },
+  {
+    "id": "011",
+    "question": "Welche situationsbestimmende Faktoren werden im DSLV-Lehrplan unter anderen genannt?",
+    "answers": [
+      { "id": "011-0", "answer": "Gelände, Schnee", "is_correct": true },
+      { "id": "011-1", "answer": "Spur, Tempo", "is_correct": true },
+      { "id": "011-2", "answer": "Ausrüstung", "is_correct": true }
+    ]
+  },
+  {
+    "id": "012",
+    "question": "Welche situationsbestimmende Faktoren werden im DSLV-Lehrplan unter anderen genannt?",
+    "answers": [
+      {
+        "id": "012-0",
+        "answer": "Skifahrer (Können, Kondition, Motivation)",
+        "is_correct": true
+      },
+      { "id": "012-1", "answer": "Wetter", "is_correct": true },
+      { "id": "012-2", "answer": "Organisation", "is_correct": true }
+    ]
+  },
+  {
+    "id": "013",
+    "question": "Welche situationsbestimmende Faktoren werden im DSLV-Lehrplan unter anderen genannt?",
+    "answers": [
+      {
+        "id": "013-0",
+        "answer": "Parkplatz, Liftanlagen",
+        "is_correct": false
+      },
+      {
+        "id": "013-1",
+        "answer": "Skifahrer, Gelände, Schnee, Spur",
+        "is_correct": true
+      },
+      {
+        "id": "013-2",
+        "answer": "Tempo, Wetter, Ausrüstung, Organisation",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "014",
+    "question": "Bewegungen für eine zielführende Ski-Technik werden wie folgt unterteilt:",
+    "answers": [
+      {
+        "id": "014-0",
+        "answer": "Druckregulation, Druckaufbau, Druck erhöhen und nutzen",
+        "is_correct": false
+      },
+      {
+        "id": "014-1",
+        "answer": "regulative Bewegungen, Hauptbewegungen, Bewegungsvariable",
+        "is_correct": true
+      },
+      {
+        "id": "014-2",
+        "answer": "Kanten, Drehen, Belasten, Gleiten",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "015",
+    "question": "Welche Ziele sind für kontrolliertes Kurvenfahren unabdingbar?",
+    "answers": [
+      {
+        "id": "015-0",
+        "answer": "Kontrolle der Geschwindigkeit und Kontrolle der Richtung",
+        "is_correct": true
+      },
+      {
+        "id": "015-1",
+        "answer": "Hindernisse finden und umgehen",
+        "is_correct": false
+      },
+      {
+        "id": "015-2",
+        "answer": "Geländeübergänge nutzen",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "016",
+    "question": "Welche Druck- bzw. Belastungsempfindungen sollten idealerweise im gesamten Kurvenverlauf gespürt werden?",
+    "answers": [
+      {
+        "id": "016-0",
+        "answer": "Tempokontrolle, Richtungskontrolle, Orientierungskontrolle",
+        "is_correct": false
+      },
+      {
+        "id": "016-1",
+        "answer": "Druck aufbauen, erhöhen und nutzen – Druck regulieren",
+        "is_correct": true
+      },
+      {
+        "id": "016-2",
+        "answer": "ständig auf Sicherheit achten und Abstand zum Pistenrand regulieren",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "017",
+    "question": "Kurvenfahren über die Falllinie wird durch Hauptbewegungen realisiert. Welche Hauptbewegungen werden im DSLV-Lehrplan beschrieben?",
+    "answers": [
+      { "id": "017-0", "answer": "Kantbewegungen", "is_correct": true },
+      { "id": "017-1", "answer": "Drehbewegungen", "is_correct": true },
+      {
+        "id": "017-2",
+        "answer": "Steuer- und Gleitbewegungen",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "018",
+    "question": "Welche Frage stellt sich vorrangig, um eine sichere und situationsangepasste Richtungsänderung auszuführen?",
+    "answers": [
+      {
+        "id": "018-0",
+        "answer": "Welche Hauptbewegungen sollen mit welchen Bewegungsvariablen passend zur Situation vernetzt werden?",
+        "is_correct": true
+      },
+      {
+        "id": "018-1",
+        "answer": "Was für eine Schneebeschaffenheit liegt vor?",
+        "is_correct": false
+      },
+      {
+        "id": "018-2",
+        "answer": "Ist die Ski- und Schuhausrüstung passend gewählt?",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "019",
+    "question": "Hauptbewegungen werden mit Bewegungsvariablen der jeweiligen Situation angepasst. Welche Bewegungsvariable werden im DSLV-Lehrplan beschrieben?",
+    "answers": [
+      {
+        "id": "019-0",
+        "answer": "Timing, Radius, Umfang",
+        "is_correct": false
+      },
+      {
+        "id": "019-1",
+        "answer": "Tempo, Umfang, Reibung, Dynamik",
+        "is_correct": false
+      },
+      {
+        "id": "019-2",
+        "answer": "Timing, Richtung, Umfang",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "020",
+    "question": "Kantbewegungen sind Bewegungen",
+    "answers": [
+      {
+        "id": "020-0",
+        "answer": "gegen die Skilängsachse",
+        "is_correct": false
+      },
+      { "id": "020-1", "answer": "um die Skilängsachse", "is_correct": true },
+      {
+        "id": "020-2",
+        "answer": "um die Körperlängsachse",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "021",
+    "question": "Welche im DSLV-Lehrplan beschriebene „Kantbewegungen“ können unter anderen ausgeführt werden?",
+    "answers": [
+      { "id": "021-0", "answer": "Fußkippen", "is_correct": true },
+      { "id": "021-1", "answer": "Kniekippen", "is_correct": true },
+      {
+        "id": "021-2",
+        "answer": "Hüftkippen bzw. Hüfte/Becken zur Kurvenmitte absenken",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "022",
+    "question": "Regulative Bewegungen ermöglichen Gleichgewichtsregulation und Belastungs- und Druckregulation. Wie werden regulative Bewegungen vorrangig realisiert?",
+    "answers": [
+      {
+        "id": "022-0",
+        "answer": "durch Körperschwerpunkt-(KSP-)Verlagerungen",
+        "is_correct": true
+      },
+      {
+        "id": "022-1",
+        "answer": "durch Einnehmen und Ändern von Lagen und Stellung (Positionen)",
+        "is_correct": true
+      },
+      {
+        "id": "022-2",
+        "answer": "durch Tempo und Richtung",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "023",
+    "question": "In welche Richtungen kann der „Körperschwerpunkt (KSP)“ unter anderen verlagert werden?",
+    "answers": [
+      {
+        "id": "023-0",
+        "answer": "nach oben, unten, vorne, hinten",
+        "is_correct": true
+      },
+      {
+        "id": "023-1",
+        "answer": "seitlich über den  Außenski",
+        "is_correct": true
+      },
+      {
+        "id": "023-2",
+        "answer": "in die Mitte der Auflagefläche",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "024",
+    "question": "Drehbewegungen sind Bewegungen",
+    "answers": [
+      {
+        "id": "024-0",
+        "answer": "um die Körperlängsachse und um die Beinlängsachsen",
+        "is_correct": true
+      },
+      {
+        "id": "024-1",
+        "answer": "entlang der Körpertiefenachse",
+        "is_correct": false
+      },
+      {
+        "id": "024-2",
+        "answer": "um und gegen die Skiachsen",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "025",
+    "question": "Welche Drehbewegungen können unter anderen ausgeführt werden?",
+    "answers": [
+      { "id": "025-0", "answer": "Beinedrehen", "is_correct": true },
+      { "id": "025-1", "answer": "Gegendrehen", "is_correct": true },
+      { "id": "025-2", "answer": " Vorausdrehen", "is_correct": true }
+    ]
+  },
+  {
+    "id": "026",
+    "question": "Bewegungsvariable optimieren die Ausführung aller Bewegungen für die jeweilige Situation. Wie kann „Timing“ unter anderen angepasst werden?",
+    "answers": [
+      {
+        "id": "026-0",
+        "answer": "früh, spät und von einem Startpunkt bis zu einem Endpunkt",
+        "is_correct": true
+      },
+      {
+        "id": "026-1",
+        "answer": "innen, außen, links, rechts",
+        "is_correct": false
+      },
+      { "id": "026-2", "answer": "vor, zurück", "is_correct": false }
+    ]
+  },
+  {
+    "id": "027",
+    "question": "Bewegungsvariable optimieren die Ausführung aller Bewegungen für die jeweilige Situation. Wie kann „Umfang“ unter anderen angepasst werden?",
+    "answers": [
+      {
+        "id": "027-0",
+        "answer": "früh, spät und von-bis",
+        "is_correct": false
+      },
+      { "id": "027-1", "answer": "wenig, viel", "is_correct": true },
+      {
+        "id": "027-2",
+        "answer": "innen, außen, links, rechts",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "028",
+    "question": "Bewegungsvariable optimieren die Ausführung aller Bewegungen für die jeweilige Situation. Wie kann „Richtung“ unter anderen angepasst werden?",
+    "answers": [
+      {
+        "id": "028-0",
+        "answer": "verzögernd, beschleunigend",
+        "is_correct": false
+      },
+      {
+        "id": "028-1",
+        "answer": "vor, zurück, oben, unten, innen, außen, links, rechts",
+        "is_correct": true
+      },
+      { "id": "028-2", "answer": "früh, spät", "is_correct": false }
+    ]
+  },
+  {
+    "id": "029",
+    "question": "Bewegungsvariable optimieren die Ausführung aller Bewegungen für die jeweilige Situation. Wie kann hohe Bewegungsgeschwindigkeit bzw. Dynamik entstehen?",
+    "answers": [
+      {
+        "id": "029-0",
+        "answer": "durch Timing (z.B.: wenig Zeit) und hohen Umfang",
+        "is_correct": true
+      },
+      {
+        "id": "029-1",
+        "answer": "durch exaktes Timing und Richtung",
+        "is_correct": false
+      },
+      {
+        "id": "029-2",
+        "answer": "ausschließlich durch Umfang",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "030",
+    "question": "Wie lautet das Merkmal für optimales Kurvenfahren für den gesamten Kurvenverlauf?",
+    "answers": [
+      {
+        "id": "030-0",
+        "answer": "Bewegungsfluss und Bewegungsbereitschaft",
+        "is_correct": true
+      },
+      {
+        "id": "030-1",
+        "answer": "Bewegungsharmonie mit Belastung",
+        "is_correct": false
+      },
+      {
+        "id": "030-2",
+        "answer": "die gesamte Kurvenbahn wird harmonisch und ökonomisch gesteuert",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "031",
+    "question": "Wie lautet das Merkmal für optimales Kurvenfahren für den Kurvenwechsel?",
+    "answers": [
+      {
+        "id": "031-0",
+        "answer": "der Körperschwerpunkt wird nach außen auf die neue Kante gelegt",
+        "is_correct": false
+      },
+      {
+        "id": "031-1",
+        "answer": "der Körperschwerpunkt wird in Richtung neue Kurvenbahn bewegt",
+        "is_correct": false
+      },
+      {
+        "id": "031-2",
+        "answer": "der Körperschwerpunkt wird nach vorne und in die neue Kurvenrichtung verlagert",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "032",
+    "question": "Wie lautet das Merkmal für optimales Kurvenfahren für die Kurvensteuerung?",
+    "answers": [
+      {
+        "id": "032-0",
+        "answer": "Kantwinkel stabil, Hüfte agil",
+        "is_correct": false
+      },
+      {
+        "id": "032-1",
+        "answer": "der Kantwinkel wird erhöht und die Kurvenlage angepasst",
+        "is_correct": true
+      },
+      {
+        "id": "032-2",
+        "answer": "das Kanten wird angepasst und der Oberkörper bleibt stabil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "033",
+    "question": "Merkmal für optimales Kurvenfahren für den gesamten Kurvenverlauf. Was bedeutet „ständige Bewegungsbereitschaft“?",
+    "answers": [
+      {
+        "id": "033-0",
+        "answer": "keine statischen Positionen",
+        "is_correct": true
+      },
+      { "id": "033-1", "answer": "keine Endpositionen", "is_correct": true },
+      { "id": "033-2", "answer": "keine Bewegungsplateaus", "is_correct": true }
+    ]
+  },
+  {
+    "id": "034",
+    "question": "Merkmal für optimales Kurvenfahren für den gesamten Kurvenverlauf. Wie realisiert man unter anderen  „Bewegungsfluss“?",
+    "answers": [
+      {
+        "id": "034-0",
+        "answer": "durch harmonisches Bewegen",
+        "is_correct": true
+      },
+      {
+        "id": "034-1",
+        "answer": "durch rhythmisches Bewegen",
+        "is_correct": true
+      },
+      {
+        "id": "034-2",
+        "answer": "durch ständig angepasstes Bewegen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "035",
+    "question": "Merkmal für optimales Kurvenfahren für den gesamten Kurvenverlauf. Was entsteht durch  „Bewegungsfluss“?",
+    "answers": [
+      { "id": "035-0", "answer": "Endpositionen", "is_correct": false },
+      { "id": "035-1", "answer": "Ökonomie und Präzision", "is_correct": true },
+      { "id": "035-2", "answer": "schnelle Kurvenfahrt", "is_correct": false }
+    ]
+  },
+  {
+    "id": "036",
+    "question": "Was bedeutet während des Kurvenwechsels „mittige Belastung“ sicherstellen?",
+    "answers": [
+      {
+        "id": "036-0",
+        "answer": "Ausgleich der „Flach-Steil-Situation“ bei der Kurveneinfahrt durch Vorregulation",
+        "is_correct": true
+      },
+      { "id": "036-1", "answer": "statische Fahrweise", "is_correct": false },
+      { "id": "036-2", "answer": "Rücklage vermeiden", "is_correct": true }
+    ]
+  },
+  {
+    "id": "037",
+    "question": "Merkmal für optimales Kurvenfahren für die Kurvensteuerung. Was trägt bei sportlicher Fahrweise mit großen Kantwinkeln unter anderen zur zusätzlichen Stabilität bei?",
+    "answers": [
+      { "id": "037-0", "answer": "Außenskidominanz", "is_correct": true },
+      { "id": "037-1", "answer": "Oberkörperausgleich", "is_correct": true },
+      {
+        "id": "037-2",
+        "answer": "ständig gleichmäßiges Belasten der Ski",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "038",
+    "question": "Effizienter Druckaufbau im Kurvenverlauf wird idealerweise durch die Kombination der folgenden Bewegungen realisiert:",
+    "answers": [
+      {
+        "id": "038-0",
+        "answer": "Kantbewegungen und Drehbewegungen",
+        "is_correct": false
+      },
+      {
+        "id": "038-1",
+        "answer": "Belastungs- und Druckregulation, Kant- und/oder Drehbewegungen",
+        "is_correct": true
+      },
+      {
+        "id": "038-2",
+        "answer": "Drehbewegungen und Körperverlagerungen",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "039",
+    "question": "„Mobilität auf Stabilität“. Die wichtigste Grundlage für Stabilität ist/sind",
+    "answers": [
+      {
+        "id": "039-0",
+        "answer": "Gleichgewichtsregulation und Belastungs- und Druckregulation",
+        "is_correct": true
+      },
+      {
+        "id": "039-1",
+        "answer": "die Merkmale für optimales Kurvenfahren",
+        "is_correct": false
+      },
+      { "id": "039-2", "answer": "das Gewicht nutzen", "is_correct": false }
+    ]
+  },
+  {
+    "id": "040",
+    "question": "„Mobilität auf Stabilität“. Stabilität ist gegeben, wenn …",
+    "answers": [
+      {
+        "id": "040-0",
+        "answer": "die Wirkungslinie der resultierenden aller Kräfte durch die Unterstützungsfläche geht und ein Kräftegleichgewicht besteht",
+        "is_correct": true
+      },
+      {
+        "id": "040-1",
+        "answer": "sich der Körperschwerpunkt über der Sturzfläche befindet",
+        "is_correct": false
+      },
+      {
+        "id": "040-2",
+        "answer": "sich stabiles und labiles Gleichgewicht gegenseitig aufheben",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "041",
+    "question": "„Mobilität auf Stabilität“. Unterstützungsfläche bzw. Stützfläche ist …",
+    "answers": [
+      {
+        "id": "041-0",
+        "answer": "bei der Pflugstellung ein Rechteck",
+        "is_correct": false
+      },
+      { "id": "041-1", "answer": "die stabile Skifläche", "is_correct": false },
+      {
+        "id": "041-2",
+        "answer": "die durch die Ski aufgespannte Fläche",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "042",
+    "question": "„Mobilität auf Stabilität“. Grundprinzipien für Stabilität sind unter andern:",
+    "answers": [
+      {
+        "id": "042-0",
+        "answer": "je tiefer der Schwerpunkt, desto stabiler",
+        "is_correct": true
+      },
+      {
+        "id": "042-1",
+        "answer": "je größer die Unterstützungsfläche, desto stabiler",
+        "is_correct": true
+      },
+      {
+        "id": "042-2",
+        "answer": "je näher die Wirkungslinie der resultierenden Kräfte am Zentrum der Unterstützungsfläche ist, desto stabiler ist das System",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "043",
+    "question": "„Mobilität auf Stabilität“. Welche Körperteile empfehlen sich beim optimalen Kurvenfahren als sogenannte „Fixpunkte“?",
+    "answers": [
+      { "id": "043-0", "answer": "Knie und Hüfte", "is_correct": false },
+      { "id": "043-1", "answer": "Beine und Hüfte", "is_correct": false },
+      { "id": "043-2", "answer": "Rumpf und Arme", "is_correct": true }
+    ]
+  },
+  {
+    "id": "044",
+    "question": "„Mobilität auf Stabilität“. Wie könnte eine „Faustregel“ für optimales Kurvenfahren  nach der DSLV-Fahrphilosophie lauten?",
+    "answers": [
+      {
+        "id": "044-0",
+        "answer": "„Rumpf passiv, Knie aktiv“",
+        "is_correct": false
+      },
+      {
+        "id": "044-1",
+        "answer": "„Oberkörper stabil, Beine agil“",
+        "is_correct": true
+      },
+      {
+        "id": "044-2",
+        "answer": "Skifahren ist „Kniefahren“",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "045",
+    "question": "Ist beim Kurvenfahren die Wirkungslinie der resultierenden Kraft außerhalb der Unterstützungsfläche, bedeutet dies:",
+    "answers": [
+      {
+        "id": "045-0",
+        "answer": "der/die Fahrer/-in ist nicht stabil = Sturzgefahr",
+        "is_correct": true
+      },
+      {
+        "id": "045-1",
+        "answer": "nur der Innenski ist belastet",
+        "is_correct": false
+      },
+      {
+        "id": "045-2",
+        "answer": "das labile Gleichgewicht überlagert das stabile Gleichgewicht",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "046",
+    "question": "Trifft beim Kurvenfahren die Wirkungslinie der resultierenden Kraft den Außenski, bedeutet dies:",
+    "answers": [
+      {
+        "id": "046-0",
+        "answer": "Außenski hat Führungsdominanz",
+        "is_correct": true
+      },
+      {
+        "id": "046-1",
+        "answer": "optimaler Spielraum, bzw. optimale Unterstützungsfläche nach innen",
+        "is_correct": true
+      },
+      { "id": "046-2", "answer": "keine Stabilität", "is_correct": false }
+    ]
+  },
+  {
+    "id": "047",
+    "question": "Trifft beim Kurvenfahren die Wirkungslinie der resultierenden Kraft den Innenski, bedeutet dies:",
+    "answers": [
+      { "id": "047-0", "answer": "Druck auf Innenski", "is_correct": true },
+      {
+        "id": "047-1",
+        "answer": "kein Spielraum, bzw. keine Unterstützungsfläche nach innen",
+        "is_correct": true
+      },
+      { "id": "047-2", "answer": "Sturzgefahr nach innen", "is_correct": true }
+    ]
+  },
+  {
+    "id": "048",
+    "question": "Trifft beim Kurvenfahren die Wirkungslinie der resultierenden Kraft die Unterstützungsfläche genau im Mittelpunkt, bedeutet dies:",
+    "answers": [
+      {
+        "id": "048-0",
+        "answer": "beide Ski werden kaum belastet",
+        "is_correct": false
+      },
+      {
+        "id": "048-1",
+        "answer": "relativ gleichmäßige Belastungs- und Druckverteilung",
+        "is_correct": true
+      },
+      {
+        "id": "048-2",
+        "answer": "Führungsdominanz liegt eindeutig auf dem Innenski",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "049",
+    "question": "Welche Skikategorien haben den breitesten Anwendungsbereich auf roten und schwarzen Pisten?",
+    "answers": [
+      {
+        "id": "049-0",
+        "answer": "SL-Carver, Länge 155 bis 165 cm",
+        "is_correct": false
+      },
+      {
+        "id": "049-1",
+        "answer": " sportliche Allmountain-Ski  oder Race-Carver, in etwa körperlang",
+        "is_correct": true
+      },
+      {
+        "id": "049-2",
+        "answer": "Freeride-Ski, über 90 mm Mittelbreite",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "050",
+    "question": "Die DSLV-Fahrphilosophie beinhaltet hauptsächlich folgende Aspekte:",
+    "answers": [
+      {
+        "id": "050-0",
+        "answer": "sportlich kontrolliertes Tempo",
+        "is_correct": false
+      },
+      {
+        "id": "050-1",
+        "answer": "Verwendung des Stockeinsatzes",
+        "is_correct": false
+      },
+      {
+        "id": "050-2",
+        "answer": "optimale Steuerqualität, zweckmäßige und ökonomische Fahrweise",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "051",
+    "question": "Die DSLV-Fahrphilosophie beinhaltet hauptsächlich folgende Aspekte:",
+    "answers": [
+      {
+        "id": "051-0",
+        "answer": "sportlich elegantes, von Leichtigkeit geprägtes Erscheinungsbild",
+        "is_correct": true
+      },
+      {
+        "id": "051-1",
+        "answer": "Beherrschung von schwarzen Pisten",
+        "is_correct": false
+      },
+      {
+        "id": "051-2",
+        "answer": "mittleres bis sportliches Tempo",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "052",
+    "question": "Optimales Kurvenfahren: Dominanz einer Bewegung bedeutet unter anderen:",
+    "answers": [
+      {
+        "id": "052-0",
+        "answer": "die jeweilige Bewegung wird länger ausgeführt, als andere Bewegungen",
+        "is_correct": true
+      },
+      {
+        "id": "052-1",
+        "answer": "die jeweilige Bewegung wird mit einem größerem Umfang als andere Bewegungen ausgeführt",
+        "is_correct": true
+      },
+      {
+        "id": "052-2",
+        "answer": "die jeweilige Bewegung ist kaum zu erkennen",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "053",
+    "question": "Optimales Kurvenfahren: Um die Dominanz von Bewegungen festzustellen, muss der Skilehrer folgende Abwägungen treffen:",
+    "answers": [
+      {
+        "id": "053-0",
+        "answer": "Welche Bewegungen des DSLV-Bewegungsmodells werden ausgeführt?",
+        "is_correct": true
+      },
+      {
+        "id": "053-1",
+        "answer": "Welche Bewegungen bzw. Teilbewegungen haben den größten Umfang?",
+        "is_correct": true
+      },
+      {
+        "id": "053-2",
+        "answer": "Welche Auswirkung haben die jeweiligen Bewegungen auf die Kurvenqualität?",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "054",
+    "question": "„Gleichgewichtsregulation“ bedeutet:",
+    "answers": [
+      {
+        "id": "054-0",
+        "answer": "resultierende Kräfte treffen möglichst die Mitte der Unterstützungsfläche",
+        "is_correct": true
+      },
+      {
+        "id": "054-1",
+        "answer": "soll Stabilität gewährleisten",
+        "is_correct": true
+      },
+      {
+        "id": "054-2",
+        "answer": "Steuereigenschaften der Ski werden nicht zur Gänze ausgenutzt",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "055",
+    "question": "„Belastungs- und Druckregulation“ bedeutet:",
+    "answers": [
+      {
+        "id": "055-0",
+        "answer": "Steuereigenschaften der Ski (z.B.: Flex, Radius) können voll ausgenutzt werden",
+        "is_correct": true
+      },
+      {
+        "id": "055-1",
+        "answer": "resultierende Kräfte werden bewusst zur Optimierung des Kurvenfahrens verwendet",
+        "is_correct": true
+      },
+      {
+        "id": "055-2",
+        "answer": "Kurvenfahren wirkt dadurch eher statisch",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "056",
+    "question": "„Kantbewegung“ bedeutet:",
+    "answers": [
+      {
+        "id": "056-0",
+        "answer": "Auflagefläche der Ski wird dadurch größer oder kleiner",
+        "is_correct": true
+      },
+      {
+        "id": "056-1",
+        "answer": "ist eine der Hauptbewegungen für optimales Kurvenfahren",
+        "is_correct": true
+      },
+      {
+        "id": "056-2",
+        "answer": "ermöglicht Richtungsänderungen über die Falllinie",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "057",
+    "question": "„Drehbewegung“ bedeutet:",
+    "answers": [
+      {
+        "id": "057-0",
+        "answer": "Bremswirkung der Ski wird größer oder kleiner",
+        "is_correct": true
+      },
+      {
+        "id": "057-1",
+        "answer": "ist eine der Hauptbewegungen für optimales Kurvenfahren",
+        "is_correct": true
+      },
+      {
+        "id": "057-2",
+        "answer": "ermöglicht Richtungsänderungen über die Falllinie",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "058",
+    "question": "„Hauptbewegung“ bedeutet unter anderen:",
+    "answers": [
+      {
+        "id": "058-0",
+        "answer": "sind Dreh- und Kantbewegungen",
+        "is_correct": true
+      },
+      {
+        "id": "058-1",
+        "answer": "bewirken zusätzliche Belastungs- und Druckveränderungen",
+        "is_correct": true
+      },
+      {
+        "id": "058-2",
+        "answer": "ermöglichen Richtungsänderungen über die Falllinie",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "059",
+    "question": "Optimales Kurvenfahren: Dominanz einer Bewegung bedeutet unter anderen:",
+    "answers": [
+      {
+        "id": "059-0",
+        "answer": "die jeweilige Bewegung hat die größte Auswirkung auf die Kurvenqualität",
+        "is_correct": true
+      },
+      {
+        "id": "059-1",
+        "answer": "die jeweilige Bewegung ist der Stockeinsatz",
+        "is_correct": false
+      },
+      {
+        "id": "059-2",
+        "answer": "Kanten ist wichtiger als Drehen",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "060",
+    "question": "„Motivierung“ – Motive sind die Motoren des menschlichen Handels. Die im DSLV-Lehrplan genannten Motive sind unter anderen:",
+    "answers": [
+      { "id": "060-0", "answer": "Bewegung, Gesundheit", "is_correct": true },
+      {
+        "id": "060-1",
+        "answer": "Naturerlebnis, Freiheit",
+        "is_correct": true
+      },
+      { "id": "060-2", "answer": "Spielerlebnis", "is_correct": true }
+    ]
+  },
+  {
+    "id": "061",
+    "question": "„Motivierung“ – Motive sind die Motoren des menschlichen Handels. Die im DSLV-Lehrplan genannten Motive sind unter anderen:",
+    "answers": [
+      { "id": "061-0", "answer": "Leistung, Ästhetik", "is_correct": true },
+      { "id": "061-1", "answer": "Geselligkeit", "is_correct": true },
+      { "id": "061-2", "answer": "Führung, Macht", "is_correct": true }
+    ]
+  },
+  {
+    "id": "062",
+    "question": "„Guter Schneesportunterricht“ – bedeutet unter anderen:",
+    "answers": [
+      {
+        "id": "062-0",
+        "answer": "lernwirksames und nachhaltiges Lernen",
+        "is_correct": true
+      },
+      { "id": "062-1", "answer": "erlebnisreiches Lernen", "is_correct": true },
+      {
+        "id": "062-2",
+        "answer": "vom schweren zum schnellen Lernen",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "063",
+    "question": "„Guter Schneesportunterricht“ - Voraussetzungen dafür sind:",
+    "answers": [
+      {
+        "id": "063-0",
+        "answer": "begründete methodische Maßnahmen",
+        "is_correct": true
+      },
+      {
+        "id": "063-1",
+        "answer": "positive Lehrer-Schüler-Interaktion",
+        "is_correct": true
+      },
+      {
+        "id": "063-2",
+        "answer": "sinnvolle und sichere Organisation",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "064",
+    "question": "„Lernmethodik“ – Methodik bedeutet",
+    "answers": [
+      {
+        "id": "064-0",
+        "answer": "das „Wie?“ eine Technik vermittelt werden soll",
+        "is_correct": true
+      },
+      {
+        "id": "064-1",
+        "answer": "nachvollziehbarer, sinnvoller Weg zu einem Lernziel",
+        "is_correct": true
+      },
+      {
+        "id": "064-2",
+        "answer": "planmäßiges Vorgehen in einem Lernprozess",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "065",
+    "question": "Allgemeine „methodische Grundsätze“ sind unter anderen",
+    "answers": [
+      {
+        "id": "065-0",
+        "answer": "vom Bekannten zum Unbekannten",
+        "is_correct": true
+      },
+      {
+        "id": "065-1",
+        "answer": "von Lernziel zu Teillernziel",
+        "is_correct": false
+      },
+      {
+        "id": "065-2",
+        "answer": "vom Leichten zum Schweren",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "066",
+    "question": "„Guter Schneesportunterricht“ lässt sich in seiner Durchführung auf folgende Schwerpunkte reduzieren:",
+    "answers": [
+      {
+        "id": "066-0",
+        "answer": "SBZ: Situation-Bewegungen-Ziel",
+        "is_correct": false
+      },
+      {
+        "id": "066-1",
+        "answer": "AOV+Q: Aufgaben stellen, Organisieren, Vermitteln und Unterrichtsqualität",
+        "is_correct": true
+      },
+      {
+        "id": "066-2",
+        "answer": "BABS: Beobachten, Anwenden, Beraten und soziale Kompetenz",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "067",
+    "question": "Spezifische „methodische Grundsätze“ des Skiunterrichts sind untern anderen",
+    "answers": [
+      {
+        "id": "067-0",
+        "answer": "von kleinen zu großen Richtungsänderungen",
+        "is_correct": true
+      },
+      {
+        "id": "067-1",
+        "answer": "von flachem zu steilem Gelände",
+        "is_correct": true
+      },
+      {
+        "id": "067-2",
+        "answer": "von gedrifteter zu geschnittener Kurvenqualität",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "068",
+    "question": "Spezifische „methodische Grundsätze“ des Skiunterrichts sind untern anderen",
+    "answers": [
+      {
+        "id": "068-0",
+        "answer": "von geringer zu hoher Geschwindigkeit",
+        "is_correct": true
+      },
+      {
+        "id": "068-1",
+        "answer": "von griffiger zu eisiger Piste",
+        "is_correct": true
+      },
+      {
+        "id": "068-2",
+        "answer": "von präpariertem zu unpräpariertem Gelände",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "069",
+    "question": "Beim Stellen von Aufgaben ist folgendes zu berücksichtigen:",
+    "answers": [
+      {
+        "id": "069-0",
+        "answer": "Aufgaben sollen abwechslungsreich und vielfältig sein",
+        "is_correct": true
+      },
+      {
+        "id": "069-1",
+        "answer": "Angst und/oder Schmerz blockiert Lernen",
+        "is_correct": true
+      },
+      {
+        "id": "069-2",
+        "answer": "für den Lernenden sollen Aufgaben eine Herausforderung darstellen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "070",
+    "question": "Welche übergeordneten Variationsmöglichkeiten einer Aufgabe sind unter anderem möglich?",
+    "answers": [
+      {
+        "id": "070-0",
+        "answer": "Hauptbewegungen und Bewegungsvariable",
+        "is_correct": true
+      },
+      { "id": "070-1", "answer": "Spur, Tempo, Richtung", "is_correct": true },
+      {
+        "id": "070-2",
+        "answer": "Kursbeginn und Treffpunkt",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "071",
+    "question": "Welche übergeordneten Variationsmöglichkeiten einer Aufgabe sind unter anderen möglich?",
+    "answers": [
+      {
+        "id": "071-0",
+        "answer": "Ausrüstung, Gelände, Schneebeschaffenheit",
+        "is_correct": true
+      },
+      { "id": "071-1", "answer": "Organisation", "is_correct": true },
+      { "id": "071-2", "answer": "Pause und Verpflegung", "is_correct": false }
+    ]
+  },
+  {
+    "id": "072",
+    "question": "Welche Möglichkeiten gibt es, eine Aufgabe anhand der „Bewegungsvariablen“ zu variieren?",
+    "answers": [
+      { "id": "072-0", "answer": "Timing", "is_correct": true },
+      { "id": "072-1", "answer": "Umfang", "is_correct": true },
+      { "id": "072-2", "answer": "Richtung", "is_correct": true }
+    ]
+  },
+  {
+    "id": "073",
+    "question": "Welche Möglichkeiten gibt es, unter anderen, eine Aufgabe anhand der „Hauptbewegungen“ zu variieren?",
+    "answers": [
+      {
+        "id": "073-0",
+        "answer": "Kantbewegungen: Fuß- oder Kniekippen",
+        "is_correct": true
+      },
+      {
+        "id": "073-1",
+        "answer": "Körperschwerpunktverlagerungen: Vor- oder Rücklage",
+        "is_correct": false
+      },
+      {
+        "id": "073-2",
+        "answer": "Drehbewegungen: Beine- oder Ganzkörperdrehen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "074",
+    "question": "Welche Möglichkeiten gibt es, unter anderen, eine Aufgabe anhand der „Hauptbewegungen“ zu variieren?",
+    "answers": [
+      {
+        "id": "074-0",
+        "answer": "Belastungsregulation: Innen- oder Außenlage",
+        "is_correct": false
+      },
+      {
+        "id": "074-1",
+        "answer": "Drehbewegungen: Ganzkörper- oder Gegendrehen",
+        "is_correct": true
+      },
+      {
+        "id": "074-2",
+        "answer": "Kantbewegungen: Hüft- oder Ganzkörperkippen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "075",
+    "question": "Welche Möglichkeiten gibt es, eine Aufgabe anhand der „Organisation“ zu variieren?",
+    "answers": [
+      {
+        "id": "075-0",
+        "answer": "Schüler: alleine, zu zweit, zu dritt, …, nebeneinander, hintereinander, …",
+        "is_correct": true
+      },
+      {
+        "id": "075-1",
+        "answer": "Hilfsmittel: Markierungen (Hüte, Pilze, Stangen), Akustik, …",
+        "is_correct": true
+      },
+      {
+        "id": "075-2",
+        "answer": "Tempo: langsam bis sportlich",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "076",
+    "question": "„deduktive Methode“ – deduktives Vorgehen bedeutet unter anderen:",
+    "answers": [
+      {
+        "id": "076-0",
+        "answer": "Lehrer greift korrigierend in die Erwerbs- und Übungsphase ein",
+        "is_correct": true
+      },
+      {
+        "id": "076-1",
+        "answer": "strukturierter Lernweg wird vom Lehrer vorgegeben",
+        "is_correct": true
+      },
+      {
+        "id": "076-2",
+        "answer": "selbständiges Lösen der Aufgabe durch die Schüler",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "077",
+    "question": "„induktive Methode“ – induktives Vorgehen bedeutet:",
+    "answers": [
+      {
+        "id": "077-0",
+        "answer": "Lehrer stellt abschließend die beste bzw. richte Lösung dar, welche dann trainiert wird",
+        "is_correct": true
+      },
+      {
+        "id": "077-1",
+        "answer": "Lehrer begleitet beratend den Unterricht und gewährleistet Sicherheit",
+        "is_correct": true
+      },
+      {
+        "id": "077-2",
+        "answer": "Schüler versuchen Aufgabe selbstständig durch ausprobieren zu lösen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "078",
+    "question": "„Teillernmethode“ bedeutet:",
+    "answers": [
+      {
+        "id": "078-0",
+        "answer": "Zielbewegung wird in Einzelbewegungen zergliedert und dadurch erleichtert",
+        "is_correct": true
+      },
+      {
+        "id": "078-1",
+        "answer": "von Einfach- zu Mehrfachanforderungen",
+        "is_correct": false
+      },
+      {
+        "id": "078-2",
+        "answer": "Zielbewegung wird nach dem Erarbeiten aufgeteilt",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "079",
+    "question": "„Ganzheitsmethode“ bedeutet:",
+    "answers": [
+      {
+        "id": "079-0",
+        "answer": "von geringem zu großem Umfang",
+        "is_correct": false
+      },
+      {
+        "id": "079-1",
+        "answer": "Rahmenbedingungen (passendes Gelände, Verfassung der Schüler) spielen große Rolle",
+        "is_correct": true
+      },
+      {
+        "id": "079-2",
+        "answer": "Zielbewegung soll von Anfang an im „Ganzen“ ausprobiert werden",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "080",
+    "question": "Aufgaben stellen – lernzielorientiertes Vorgehen heißt:",
+    "answers": [
+      {
+        "id": "080-0",
+        "answer": "ständige Orientierung am vorab definierten Lernziel („Start-Weg-Ziel“)",
+        "is_correct": true
+      },
+      {
+        "id": "080-1",
+        "answer": "möglichst schnelles Lernen",
+        "is_correct": false
+      },
+      {
+        "id": "080-2",
+        "answer": "keine irritierende Vermischung von Lernzielen im „Start-Weg-Ziel“-Ablauf",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "081",
+    "question": "Aufgaben stellen – erlebnisreiches Vorgehen heißt:",
+    "answers": [
+      {
+        "id": "081-0",
+        "answer": "Berücksichtigung der jeweiligen Motive (z.B.: Bewegung, Gesundheit, Wettkampf, …)",
+        "is_correct": true
+      },
+      {
+        "id": "081-1",
+        "answer": "Aufgaben abwechslungsreich stellen",
+        "is_correct": true
+      },
+      {
+        "id": "081-2",
+        "answer": "Aufgaben und Teillernziele sehr oft wechseln",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "082",
+    "question": "Aufgaben stellen - Aufgaben sollten generell folgende Kriterien erfüllen:",
+    "answers": [
+      {
+        "id": "082-0",
+        "answer": "schnell, ohne Umwege, leicht, direkt",
+        "is_correct": false
+      },
+      {
+        "id": "082-1",
+        "answer": "schwer, aber am Thema orientiert, abwechselnd",
+        "is_correct": false
+      },
+      {
+        "id": "082-2",
+        "answer": "lernzielorientiert, fordernd, langfristigen Erfolg sichern",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "083",
+    "question": "Durch welche Schwerpunkte wird erfolgreiches Organisieren erreicht?",
+    "answers": [
+      {
+        "id": "083-0",
+        "answer": "Sicherheit gewährleisten",
+        "is_correct": true
+      },
+      {
+        "id": "083-1",
+        "answer": "optimale Lernsituationen schaffen",
+        "is_correct": true
+      },
+      {
+        "id": "083-2",
+        "answer": "Pausen strikt einhalten",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "084",
+    "question": "Organisieren: „Sicherheit gewährleisten“ bedeutet:",
+    "answers": [
+      {
+        "id": "084-0",
+        "answer": "es dürfen keine Angstsituationen entstehen",
+        "is_correct": true
+      },
+      {
+        "id": "084-1",
+        "answer": "der Lernende muss vor objektiven Gefahren sicher sein",
+        "is_correct": true
+      },
+      {
+        "id": "084-2",
+        "answer": "der Lernende muss sich stets sicher fühlen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "085",
+    "question": "Organisieren: „optimale Situationen schaffen“ bedeutet untern anderen:",
+    "answers": [
+      {
+        "id": "085-0",
+        "answer": "Organisationsformen (z.B.: Umlauf, Vorfahren, Einzelübung, …) auf Schüler abstimmen",
+        "is_correct": true
+      },
+      {
+        "id": "085-1",
+        "answer": "Gelände (Steilheit, Länge, Breite, …) auf Lernniveau auswählen",
+        "is_correct": true
+      },
+      {
+        "id": "085-2",
+        "answer": "Schneebeschaffenheit (weich, hart, …) berücksichtigen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "086",
+    "question": "Vermittlung und Unterrichtsqualität: Durch welche Schwerpunkte wird erfolgreiches Kommunizieren erreicht?",
+    "answers": [
+      {
+        "id": "086-0",
+        "answer": "Echtheit und Gerechtigkeit",
+        "is_correct": true
+      },
+      {
+        "id": "086-1",
+        "answer": "lange Geschichten und Märchen",
+        "is_correct": false
+      },
+      { "id": "086-2", "answer": "Empathie", "is_correct": true }
+    ]
+  },
+  {
+    "id": "087",
+    "question": "Vermittlung und Unterrichtsqualität: „Echtheit“ bedeutet:",
+    "answers": [
+      {
+        "id": "087-0",
+        "answer": "der Skilehrer ist authentisch",
+        "is_correct": true
+      },
+      {
+        "id": "087-1",
+        "answer": "der Skilehrer schlüpft in eine Rolle",
+        "is_correct": false
+      },
+      {
+        "id": "087-2",
+        "answer": "kein gespieltes oder aufgesetztes Verhalten",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "088",
+    "question": "Vermittlung und Unterrichtsqualität: „Gerechtigkeit“ bedeutet:",
+    "answers": [
+      {
+        "id": "088-0",
+        "answer": "undurchsichtiges Handeln",
+        "is_correct": false
+      },
+      {
+        "id": "088-1",
+        "answer": "nachvollziehbares und transparentes Handeln",
+        "is_correct": true
+      },
+      {
+        "id": "088-2",
+        "answer": "jeder Kursteilnehmer bekommt gleiches Maß an Aufmerksamkeit",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "089",
+    "question": "Vermittlung und Unterrichtsqualität: „Empathie“ bedeutet:",
+    "answers": [
+      { "id": "089-0", "answer": "Gedankenlesen können", "is_correct": false },
+      {
+        "id": "089-1",
+        "answer": "die Fähigkeit sich in die Lage der Schüler zu versetzen",
+        "is_correct": true
+      },
+      {
+        "id": "089-2",
+        "answer": "die Teilnehmer gehen freundlich miteinander um",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "090",
+    "question": "Vermittlung und Unterrichtsqualität: „Motivieren“ bedeutet:",
+    "answers": [
+      {
+        "id": "090-0",
+        "answer": "Erfolgserlebnisse gewährleisten",
+        "is_correct": true
+      },
+      { "id": "090-1", "answer": "Motive berücksichtigen", "is_correct": true },
+      {
+        "id": "090-2",
+        "answer": "Anspornen durch laute Zurufe",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "091",
+    "question": "Regeln für einen „guten Unterricht“ können unter anderen sein:",
+    "answers": [
+      {
+        "id": "091-0",
+        "answer": "die gesamte Situation berücksichtigen und nutzen",
+        "is_correct": true
+      },
+      {
+        "id": "091-1",
+        "answer": "kurze und prägnante Anweisungen geben",
+        "is_correct": true
+      },
+      {
+        "id": "091-2",
+        "answer": "den Leistungsstand der Gruppe immer im Blick haben",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "092",
+    "question": "Regeln für einen „guten Unterricht“ können unter anderen sein:",
+    "answers": [
+      {
+        "id": "092-0",
+        "answer": "das Lernziel klar und deutlich bekannt geben",
+        "is_correct": true
+      },
+      {
+        "id": "092-1",
+        "answer": "Unterricht mit Raum für eventuelle Improvisationen planen",
+        "is_correct": true
+      },
+      {
+        "id": "092-2",
+        "answer": "Unterricht sorgfältig und sicher planen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "093",
+    "question": "Regeln für einen „guten Unterricht“ können unter anderen sein:",
+    "answers": [
+      {
+        "id": "093-0",
+        "answer": "Aufgabenniveau und Lerntempo der Gruppe anpassen",
+        "is_correct": true
+      },
+      {
+        "id": "093-1",
+        "answer": "Gruppe so platzieren, dass  sie sich auf die Informationen konzentrieren kann",
+        "is_correct": true
+      },
+      {
+        "id": "093-2",
+        "answer": "alle mit den Skikursregeln von Beginn an vertraut machen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "094",
+    "question": "Schülerorientierung bedeutet unter anderen:",
+    "answers": [
+      {
+        "id": "094-0",
+        "answer": "alle mit Namen ansprechen",
+        "is_correct": true
+      },
+      {
+        "id": "094-1",
+        "answer": "allen Schülern gleich, gerecht und mit Respekt begegnen",
+        "is_correct": true
+      },
+      {
+        "id": "094-2",
+        "answer": "Ziele zusammen definieren und auf Bedürfnisse, Wünsche und Erwartungen eingehen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "095",
+    "question": "Schülerorientierung bedeutet unter anderen:",
+    "answers": [
+      {
+        "id": "095-0",
+        "answer": "regelmäßiges und individuelles Feedback geben",
+        "is_correct": true
+      },
+      {
+        "id": "095-1",
+        "answer": "echtes und angemessenes Interesse an den Belangen der Schüler zeigen",
+        "is_correct": true
+      },
+      {
+        "id": "095-2",
+        "answer": "individuelle Leistungszustände berücksichtigen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "096",
+    "question": "Aktivierung – ist die Anregung zum vertieften Nachdenken und Auseinandersetzen mit dem Unterrichtsgegenstand. Das ist wie folgt möglich:",
+    "answers": [
+      {
+        "id": "096-0",
+        "answer": "Schüler anregen, sich im Vorfeld einer Aufgabe die Lösung zu überlegen",
+        "is_correct": true
+      },
+      {
+        "id": "096-1",
+        "answer": "Abgleich von Innen- und Außenansicht fördern",
+        "is_correct": true
+      },
+      {
+        "id": "096-2",
+        "answer": "Rückmeldung über individuell erzielte Fortschritte",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "097",
+    "question": "Aktivierung – ist die Anregung zum vertieften Nachdenken und Auseinandersetzen mit dem Unterrichtsgegenstand. Das ist wie folgt möglich:",
+    "answers": [
+      {
+        "id": "097-0",
+        "answer": "einfache Sätze für Ansagen und Erklärungen machen",
+        "is_correct": true
+      },
+      {
+        "id": "097-1",
+        "answer": "variable Aufgabenstellungen, Ablauf- und Sozialformen verwenden",
+        "is_correct": true
+      },
+      {
+        "id": "097-2",
+        "answer": "adressatengerechtes Lernniveau und Lerntempo vorgeben",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "098",
+    "question": "Level 2: Lehrprobe – die Unterrichtsart „Erarbeiten“ für die Überprüfung der Unterrichtsfähigkeit ist unter andern durch folgende Schwerpunkte gekennzeichnet:",
+    "answers": [
+      {
+        "id": "098-0",
+        "answer": "Lernstufen: Aneignen bis Vertiefen",
+        "is_correct": true
+      },
+      {
+        "id": "098-1",
+        "answer": "Fertigkeitsstufen: von keiner Kenntnis, über Grobform  bis hin zur angehenden Feinform",
+        "is_correct": true
+      },
+      {
+        "id": "098-2",
+        "answer": "strikte Orientierung an den methodischen Grundsätzen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "099",
+    "question": "Level 2: Lehrprobe – die Unterrichtsart „Erarbeiten“ für die Überprüfung der Unterrichtsfähigkeit ist unter anderen durch folgende Schwerpunkte gekennzeichnet:",
+    "answers": [
+      {
+        "id": "099-0",
+        "answer": "Praxis- und Fahranteil: > 60 %",
+        "is_correct": true
+      },
+      {
+        "id": "099-1",
+        "answer": "Fokus liegt auf Lernziel bzw. auf der zu erlernenden Fertigkeit",
+        "is_correct": true
+      },
+      {
+        "id": "099-2",
+        "answer": "Vermittlungsanteil: > 60 %",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "100",
+    "question": "DSLV-Schneesportphilosophie: Lernebenen und Lernziele. Welches Lernziel passt NICHT in die Lernebene Grün:",
+    "answers": [
+      {
+        "id": "100-0",
+        "answer": "erste Pflugkurven mit Belastungswechsel",
+        "is_correct": true
+      },
+      { "id": "100-1", "answer": "Bewegen in der Ebene", "is_correct": false },
+      {
+        "id": "100-2",
+        "answer": "Gleiten und Bremsen im Pflug",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "101",
+    "question": "DSLV-Schneesportphilosophie: Lernebenen und Lernziele. Welches Lernziel passt NICHT in die Lernebene Grün:",
+    "answers": [
+      { "id": "101-0", "answer": "erste Pflugkurven", "is_correct": false },
+      {
+        "id": "101-1",
+        "answer": "Ausrüstung kennen lernen, Bewegen in der Ebene",
+        "is_correct": false
+      },
+      {
+        "id": "101-2",
+        "answer": "Springen auf kleiner Schanze",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "question": "DSLV-Schneesportphilosophie: Lernebenen und Lernziele. Welches Lernziel passt NICHT in die Lernebene Blau:",
+    "answers": [
+      {
+        "id": "102-0",
+        "answer": "rhythmische Pflugkurven",
+        "is_correct": false
+      },
+      {
+        "id": "102-1",
+        "answer": "geradeausfahren in paralleler und stabiler Position",
+        "is_correct": true
+      },
+      {
+        "id": "102-2",
+        "answer": "Pflugkurven mit Belastungswechsel",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "103",
+    "question": "DSLV-Schneesportphilosophie: Lernebenen und Lernziele. Welches Lernziel passt NICHT in die Lernebene Blau:",
+    "answers": [
+      {
+        "id": "103-0",
+        "answer": "Gleiten und Bremsen im Pflug",
+        "is_correct": true
+      },
+      {
+        "id": "103-1",
+        "answer": "rhythmische Pflugkurven",
+        "is_correct": false
+      },
+      {
+        "id": "103-2",
+        "answer": "paralleles Kurvenfahren mit variabler Spuranlage",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "104",
+    "question": "DSLV-Schneesportphilosophie: Lernebenen und Lernziele. Welches Lernziel passt NICHT in die Lernebene Rot:",
+    "answers": [
+      {
+        "id": "104-0",
+        "answer": "parallele Kurven mit variabler Spuranlage",
+        "is_correct": false
+      },
+      {
+        "id": "104-1",
+        "answer": "erste Pistentricks, erstes Springen auf kleiner Schanze",
+        "is_correct": true
+      },
+      {
+        "id": "104-2",
+        "answer": "Position stabilisieren und sichern",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "105",
+    "question": "DSLV-Schneesportphilosophie: Lernebenen und Lernziele. Welches Lernziel passt NICHT in die Lernebene Rot:",
+    "answers": [
+      {
+        "id": "105-0",
+        "answer": "souverän sportlich fahren",
+        "is_correct": true
+      },
+      {
+        "id": "105-1",
+        "answer": "Position stabilisieren und sichern",
+        "is_correct": false
+      },
+      {
+        "id": "105-2",
+        "answer": "Kurvenwechsel  verbessern, mit Stockeinsatz",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "106",
+    "question": "Lernebene Blau, Lernziel „Pflugkurven mit Belastungswechsel“:  Welche LZ-Schwerpunkte sind zu schulen?",
+    "answers": [
+      {
+        "id": "106-0",
+        "answer": "Belastungs- und Druckregulation variieren",
+        "is_correct": true
+      },
+      {
+        "id": "106-1",
+        "answer": "Gleichgewichtsregulation sicherstellen",
+        "is_correct": true
+      },
+      { "id": "106-2", "answer": "Belastung mit Drehen", "is_correct": false }
+    ]
+  },
+  {
+    "id": "107",
+    "question": "Lernebene Blau, Lernziel „Rhythmische Pflugkurven“:  Warum ist Bewegungsrhythmus wichtig?",
+    "answers": [
+      {
+        "id": "107-0",
+        "answer": "um möglichst schnell fahren zu können",
+        "is_correct": false
+      },
+      {
+        "id": "107-1",
+        "answer": "es entsteht eine ökonomische und harmonische Fahrweise",
+        "is_correct": true
+      },
+      {
+        "id": "107-2",
+        "answer": "es erhöht sich dadurch die Präzision der Bewegungen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "108",
+    "question": "Lernebene Blau, Lernziel „Schrägfahren und Seitrutschen“:  Warum ist dieses Lernziel wichtig?",
+    "answers": [
+      {
+        "id": "108-0",
+        "answer": "die gesamte Hangbreite wird besser ausgenutzt",
+        "is_correct": false
+      },
+      {
+        "id": "108-1",
+        "answer": "steile Hangpassagen können dadurch sicher bewältigt  werden",
+        "is_correct": true
+      },
+      {
+        "id": "108-2",
+        "answer": "Vorbereitung für das parallele Kurvenfahren",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "109",
+    "question": "Lernebene Blau, Lernziel „Erstes Kurvenfahren in paralleler Skistellung“:  Welche LZ-Schwerpunkte sind notwendig?",
+    "answers": [
+      { "id": "109-0", "answer": "Pflugstellung abbauen", "is_correct": true },
+      {
+        "id": "109-1",
+        "answer": "umfangreiche Vertikalbewegung",
+        "is_correct": false
+      },
+      {
+        "id": "109-2",
+        "answer": "paralleles Umkanten beider Ski",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "110",
+    "question": "Lernebene Rot, Lernziel „Parallele Kurven mit variabler Spuranlage“:  Welche LZ-Schwerpunkte sind zu erarbeiten?",
+    "answers": [
+      {
+        "id": "110-0",
+        "answer": "Hauptbewegungen variieren",
+        "is_correct": true
+      },
+      {
+        "id": "110-1",
+        "answer": "Bewegungsvariable nutzen",
+        "is_correct": true
+      },
+      { "id": "110-2", "answer": "variabler Stockeinsatz", "is_correct": false }
+    ]
+  },
+  {
+    "id": "111",
+    "question": "Lernebene Rot, Lernziel „Position stabilisieren und sichern“:  Durch welche Aufgaben kann man dieses Ziel unter anderen erarbeiten?",
+    "answers": [
+      {
+        "id": "111-0",
+        "answer": "Aufgaben, die eine bewegungsbereite Position erzeugen",
+        "is_correct": true
+      },
+      {
+        "id": "111-1",
+        "answer": "Aufgaben für stabiles Gleiten",
+        "is_correct": false
+      },
+      {
+        "id": "111-2",
+        "answer": "Aufgaben, die Bewegungen aus den Beinen fördern",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "112",
+    "question": "Lernebene Rot, Lernziel „Kurvenwechsel verbessern – mit Stockeinsatz“:  Welche LZ-Schwerpunkte sind zu erarbeiten?",
+    "answers": [
+      {
+        "id": "112-0",
+        "answer": "Oberkörper gleicht aus",
+        "is_correct": false
+      },
+      {
+        "id": "112-1",
+        "answer": "Wechselbewegungen variieren",
+        "is_correct": true
+      },
+      {
+        "id": "112-2",
+        "answer": "Körperschwerpunkt bewegt sich nach vorne und in die neue Kurvenrichtung",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "113",
+    "question": "Lernebene Rot, Lernziel „Kurvensteuerung verbessern“:  Welche LZ-Schwerpunkte sind zu erarbeiten?",
+    "answers": [
+      {
+        "id": "113-0",
+        "answer": "Kantbewegungen variieren",
+        "is_correct": true
+      },
+      {
+        "id": "113-1",
+        "answer": "Ausgleichsbewegungen variieren",
+        "is_correct": true
+      },
+      {
+        "id": "113-2",
+        "answer": "die Ski maximal aufkanten",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "114",
+    "question": "Lernebene Rot, Lernziel „Pistentricks – Wellen und Mulden fahren, Easy Fun Park“:  Was sind Voraussetzungen für dieses Lernziel?",
+    "answers": [
+      {
+        "id": "114-0",
+        "answer": "Helm und Protektoren tragen",
+        "is_correct": true
+      },
+      {
+        "id": "114-1",
+        "answer": "Park-Regeln wissen und beachten",
+        "is_correct": true
+      },
+      {
+        "id": "114-2",
+        "answer": "Fitnesszustand der Schüler berücksichtigen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "115",
+    "question": "Lernebene Blau, Lernziel „Springen auf kleiner Schanze, erste Pistentricks“:  Welche Motivationsgründe gibt es für dieses Lernziel?",
+    "answers": [
+      { "id": "115-0", "answer": "Skispringer werden", "is_correct": false },
+      {
+        "id": "115-1",
+        "answer": "Gleichgewichtregulation auf Ski wird verbessert",
+        "is_correct": true
+      },
+      {
+        "id": "115-2",
+        "answer": "in schwierigeren Situationen stabil agieren können",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "116",
+    "question": "Welchem Lernziel kann die Aufgabe „Pflugkurven mit fließender Vertikalbewegung“ zugeordnet werden?",
+    "answers": [
+      {
+        "id": "116-0",
+        "answer": "erste Pflugkurven fahren",
+        "is_correct": false
+      },
+      {
+        "id": "116-1",
+        "answer": "rhythmische Pflugkurven",
+        "is_correct": true
+      },
+      {
+        "id": "116-2",
+        "answer": "erstes Kurvenfahren in paralleler Skistellung",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "117",
+    "question": "Welchem Lernziel kann die Aufgabe „Oberarme verschränken und einbeinig Kurvenfahren“ zugeordnet werden?",
+    "answers": [
+      {
+        "id": "117-0",
+        "answer": "Position stabilisieren und sichern",
+        "is_correct": true
+      },
+      {
+        "id": "117-1",
+        "answer": "parallele Kurven mit variabler Spuranlage",
+        "is_correct": false
+      },
+      {
+        "id": "117-2",
+        "answer": "Kurvensteuerung verbessern",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "118",
+    "question": "Durch welche Maßnahmen kann ein Skilehrer das Verbesserungspotential „Rücklage“ schulen?",
+    "answers": [
+      {
+        "id": "118-0",
+        "answer": "Aufgabenstellungen rückwärtsfahren",
+        "is_correct": true
+      },
+      {
+        "id": "118-1",
+        "answer": "gut zureden bzw. argumentieren",
+        "is_correct": false
+      },
+      {
+        "id": "118-2",
+        "answer": "flacheres Gelände wählen",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "119",
+    "question": "Durch welche Maßnahmen kann ein Skilehrer das Verbesserungspotential „mangelnde Tempokontrolle“ schulen?",
+    "answers": [
+      {
+        "id": "119-0",
+        "answer": "Stockeinsatz verbessern",
+        "is_correct": false
+      },
+      {
+        "id": "119-1",
+        "answer": "Dreh- und Kantbewegungen verbessern",
+        "is_correct": true
+      },
+      {
+        "id": "119-2",
+        "answer": "bewegungsbereite Position verbessern",
+        "is_correct": true
+      }
+    ]
+  }
+]
