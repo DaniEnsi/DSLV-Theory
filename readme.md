@@ -37,6 +37,11 @@ To get started with the DSLV Skitrainer Online Test Bot, follow these steps:
 - Run the bot using `python bot.py`
 - Follow the prompts to begin the test
 
+## Certificate Example
+
+<img width="596" alt="SCR-20240926-tjnm" src="https://github.com/user-attachments/assets/61e5d19e-002d-4a82-b06c-93667e711ead">
+
+
 ## Contributions
 
 We welcome contributions to the DSLV Skitrainer Online Test Bot. If you have an idea for a new feature or have found a bug, please open an issue in the repository.
