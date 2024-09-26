@@ -14,6 +14,11 @@ This bot is designed to help you pass the DSLV Skitrainer online test with ease.
 - Correct answers to all test questions
 - Option to receive a certificate upon completion
 
+## Demo
+
+https://github.com/user-attachments/assets/98cd7d22-a99f-4bb4-bd5f-ccd39d4be40e
+
+
 ## Requirements
 
 In order to use the DSLV Skitrainer Online Test Bot, you will need:
