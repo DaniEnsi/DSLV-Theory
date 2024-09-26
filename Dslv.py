@@ -66,10 +66,18 @@ else:
     exit()
 driver.get("https://www.dslv-theorie.de")
 driver.implicitly_wait(0.5)
+#click on next button (/html/body/div[2]/div/div/div/div/div[1]/div/button)
+driver.find_element(By.XPATH, '/html/body/div[2]/div/div/div/div/div[1]/div/button').click()
+driver.implicitly_wait(0.5)
+# click on next button (/html/body/div[2]/div/div/div/div/div[2]/div/button)
+driver.find_element(By.XPATH, '/html/body/div[2]/div/div/div/div/div[2]/div/button').click()
+driver.implicitly_wait(0.5)
+# click on next button (/html/body/div[2]/div/div/div/div/div[3]/div/div/button[1])
+driver.find_element(By.XPATH, '/html/body/div[2]/div/div/div/div/div[3]/div/div/button[1]').click()
 # click button
 if course == "Ski Level 1":
     driver.find_element(
-    By.XPATH, '//*[@id="app"]/main/div/div/div[2]/div/div/div[2]/div/a/div').click()
+    By.XPATH, '//*[@id="app"]/main/div/div/div[2]/div/div/div[2]/div/a/div').click() 
     with open('jsons/level-1-ski.json') as f:
         data = json.load(f)
 elif course == "Ski Level 2":
@@ -193,15 +201,21 @@ for i in range(0, 500):
 if fillform == True:
     if verboose == True:
         print("Filling out Form")
-    nameinput = driver.find_element(By.ID, 'name')
-    nameinput.send_keys(name)
-    # press tab
-    actions = ActionChains(driver)
-    actions.send_keys(Keys.TAB)
-    actions.send_keys(birthdate)
-    actions.send_keys(Keys.TAB)
-    actions.send_keys(email)
-    actions.perform()
-    driver.find_element(By.XPATH, '/html/body/div[3]/div/div/form/button').click()
-    driver.quit()
+    try:
+        nameinput = driver.find_element(By.ID, 'name')
+        nameinput.send_keys(name)
+        # press tab
+        actions = ActionChains(driver)
+        actions.send_keys(Keys.TAB)
+        actions.send_keys(birthdate)
+        actions.send_keys(Keys.TAB)
+        actions.send_keys(email)
+        actions.perform()
+        driver.find_element(By.XPATH, '/html/body/div[3]/div/div/form/button').click()
+    except WebDriverException:
+        print("Error while filling out the form")
+        pass
+
+time.sleep(30)
+
 quit()
